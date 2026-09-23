@@ -1,0 +1,751 @@
+OrderID,OrderDate,CustomerID,CustomerName,Segment,Region,State,Category,SubCategory,Product,UnitPrice,Quantity,Discount,Sales,Cost,Profit,PaymentMethod,ShipMode,ProfitMargin
+ORD-00001,2024-07-08,C0178,Isha Khan,Corporate,South,North Carolina,Office Supplies,Writing,Desk Organizer,28,7,0.0,196.0,80.36,115.64,Debit Card,Standard Class,59.0
+ORD-00002,2024-03-26,C0137,Lucas Miller,Home Office,South,Georgia,Office Supplies,Paper,Copy Paper,15,8,0.0,120.0,42.0,78.0,UPI,Second Class,65.0
+ORD-00003,2024-08-31,C0033,Liam Patel,Consumer,South,Georgia,Technology,Accessories,Laptop Sleeve,35,5,0.1,157.5,66.5,91.0,UPI,Standard Class,57.78
+ORD-00004,2025-10-13,C0054,Liam Davis,Consumer,East,Massachusetts,Office Supplies,Paper,Notebook Set,22,3,0.2,52.8,26.4,26.4,Debit Card,First Class,50.0
+ORD-00005,2025-08-15,C0019,Aarav Patel,Home Office,Central,Texas,Furniture,Tables,Coffee Table,149,3,0.0,447.0,232.44,214.56,UPI,Same Day,48.0
+ORD-00006,2024-05-08,C0109,Ananya Sharma,Consumer,South,North Carolina,Office Supplies,Paper,Notebook Set,22,9,0.0,198.0,79.2,118.8,Credit Card,Same Day,60.0
+ORD-00007,2025-11-03,C0052,Mia Sharma,Consumer,Central,Texas,Furniture,Chairs,Ergonomic Chair,399,5,0.0,1995.0,1256.85,738.15,Credit Card,Standard Class,37.0
+ORD-00008,2025-12-02,C0034,Sara Khan,Home Office,West,California,Office Supplies,Paper,Copy Paper,15,4,0.0,60.0,21.0,39.0,Credit Card,Standard Class,65.0
+ORD-00009,2024-09-21,C0122,Sara Brown,Home Office,Central,Ohio,Technology,Phones,Wireless Headset,129,5,0.1,580.5,316.05,264.45,Bank Transfer,First Class,45.56
+ORD-00010,2024-05-18,C0056,Liam Brown,Consumer,Central,Illinois,Office Supplies,Writing,Pen Pack,12,9,0.0,108.0,32.4,75.6,Bank Transfer,Second Class,70.0
+ORD-00011,2025-01-11,C0024,Sara Miller,Corporate,Central,Ohio,Furniture,Tables,Coffee Table,149,5,0.2,596.0,387.4,208.6,Debit Card,Second Class,35.0
+ORD-00012,2024-04-24,C0118,Ananya Wilson,Consumer,West,Oregon,Furniture,Tables,Study Desk,279,3,0.05,795.15,502.2,292.95,Bank Transfer,First Class,36.84
+ORD-00013,2025-05-05,C0035,Ananya Johnson,Corporate,East,Massachusetts,Technology,Accessories,Laptop Sleeve,35,2,0.0,70.0,26.6,43.4,Credit Card,Standard Class,62.0
+ORD-00014,2025-07-29,C0030,Sara Wilson,Corporate,West,Washington,Furniture,Chairs,Office Chair,199,4,0.2,636.8,453.72,183.08,Credit Card,First Class,28.75
+ORD-00015,2025-08-13,C0112,Ethan Patel,Corporate,West,California,Technology,Phones,Wireless Headset,129,2,0.0,258.0,126.42,131.58,Debit Card,Second Class,51.0
+ORD-00016,2025-03-25,C0030,Sara Wilson,Corporate,Central,Ohio,Office Supplies,Writing,Pen Pack,12,11,0.05,125.4,39.6,85.8,Bank Transfer,Second Class,68.42
+ORD-00017,2024-03-24,C0104,Lucas Garcia,Corporate,West,Washington,Office Supplies,Paper,Notebook Set,22,3,0.1,59.4,26.4,33.0,UPI,Standard Class,55.56
+ORD-00018,2024-12-06,C0066,Lucas Wilson,Corporate,East,Massachusetts,Office Supplies,Writing,Desk Organizer,28,3,0.1,75.6,34.44,41.16,UPI,Second Class,54.44
+ORD-00019,2024-05-21,C0113,Ananya Davis,Corporate,West,Oregon,Technology,Accessories,USB-C Hub,59,1,0.1,53.1,26.55,26.55,UPI,First Class,50.0
+ORD-00020,2025-09-03,C0157,Noah Patel,Consumer,West,Washington,Office Supplies,Writing,Pen Pack,12,6,0.0,72.0,21.6,50.4,Bank Transfer,Second Class,70.0
+ORD-00021,2025-06-30,C0074,Mia Sharma,Corporate,East,Pennsylvania,Technology,Accessories,Laptop Sleeve,35,2,0.1,63.0,26.6,36.4,Bank Transfer,Second Class,57.78
+ORD-00022,2024-12-10,C0036,Sara Garcia,Home Office,West,California,Furniture,Chairs,Ergonomic Chair,399,3,0.2,957.6,754.11,203.49,Bank Transfer,Same Day,21.25
+ORD-00023,2024-01-03,C0054,Liam Davis,Consumer,East,New York,Technology,Accessories,Laptop Sleeve,35,4,0.1,126.0,53.2,72.8,Credit Card,Same Day,57.78
+ORD-00024,2024-03-12,C0179,Noah Patel,Home Office,Central,Ohio,Technology,Computers,Laptop,1099,5,0.0,5495.0,3626.7,1868.3,UPI,Second Class,34.0
+ORD-00025,2024-10-19,C0009,Isha Johnson,Home Office,West,Washington,Technology,Computers,Laptop,1099,5,0.15,4670.75,3626.7,1044.05,UPI,Standard Class,22.35
+ORD-00026,2024-09-11,C0091,Liam Garcia,Corporate,Central,Ohio,Office Supplies,Storage,Filing Cabinet,189,10,0.0,1890.0,1152.9,737.1,Bank Transfer,First Class,39.0
+ORD-00027,2025-02-17,C0164,Isha Brown,Home Office,Central,Texas,Technology,Phones,Smartphone,699,3,0.2,1677.6,1132.38,545.22,UPI,First Class,32.5
+ORD-00028,2024-02-07,C0043,Sara Miller,Consumer,West,Oregon,Office Supplies,Storage,Storage Box,32,2,0.15,54.4,27.52,26.88,Credit Card,First Class,49.41
+ORD-00029,2024-11-28,C0116,Ananya Garcia,Home Office,East,New York,Technology,Phones,Wireless Headset,129,1,0.15,109.65,63.21,46.44,Credit Card,Second Class,42.35
+ORD-00030,2024-01-06,C0025,Noah Khan,Home Office,Central,Texas,Office Supplies,Writing,Pen Pack,12,1,0.0,12.0,3.6,8.4,Debit Card,Second Class,70.0
+ORD-00031,2024-09-20,C0001,Liam Sharma,Home Office,West,California,Office Supplies,Storage,Filing Cabinet,189,12,0.0,2268.0,1383.48,884.52,UPI,Standard Class,39.0
+ORD-00032,2024-11-22,C0175,Noah Garcia,Consumer,Central,Ohio,Technology,Phones,Wireless Headset,129,1,0.05,122.55,63.21,59.34,Bank Transfer,First Class,48.42
+ORD-00033,2024-05-21,C0049,Kavya Davis,Home Office,West,Oregon,Technology,Computers,Laptop,1099,2,0.2,1758.4,1450.68,307.72,UPI,Second Class,17.5
+ORD-00034,2024-09-20,C0063,Mia Patel,Consumer,West,California,Furniture,Tables,Study Desk,279,4,0.0,1116.0,669.6,446.4,Bank Transfer,Same Day,40.0
+ORD-00035,2025-07-30,C0117,Mia Brown,Corporate,West,Washington,Office Supplies,Writing,Pen Pack,12,4,0.1,43.2,14.4,28.8,Bank Transfer,Second Class,66.67
+ORD-00036,2024-06-07,C0059,Isha Wilson,Home Office,South,Georgia,Furniture,Tables,Study Desk,279,1,0.0,279.0,167.4,111.6,Bank Transfer,Standard Class,40.0
+ORD-00037,2025-09-23,C0140,Aarav Sharma,Consumer,Central,Illinois,Technology,Accessories,Laptop Sleeve,35,2,0.15,59.5,26.6,32.9,Bank Transfer,First Class,55.29
+ORD-00038,2025-10-06,C0070,Mia Patel,Home Office,Central,Illinois,Furniture,Tables,Coffee Table,149,4,0.0,596.0,309.92,286.08,Debit Card,Standard Class,48.0
+ORD-00039,2024-08-15,C0176,Ananya Smith,Corporate,South,Georgia,Office Supplies,Writing,Pen Pack,12,3,0.15,30.6,10.8,19.8,UPI,First Class,64.71
+ORD-00040,2024-08-31,C0099,Noah Patel,Home Office,West,Washington,Furniture,Tables,Coffee Table,149,4,0.0,596.0,309.92,286.08,UPI,Same Day,48.0
+ORD-00041,2025-09-04,C0011,Kavya Sharma,Corporate,Central,Texas,Furniture,Tables,Study Desk,279,2,0.15,474.3,334.8,139.5,Credit Card,Second Class,29.41
+ORD-00042,2025-04-15,C0113,Ananya Davis,Corporate,Central,Ohio,Technology,Accessories,Laptop Sleeve,35,1,0.2,28.0,13.3,14.7,UPI,First Class,52.5
+ORD-00043,2025-12-18,C0066,Lucas Wilson,Corporate,Central,Texas,Furniture,Tables,Coffee Table,149,3,0.2,357.6,232.44,125.16,UPI,Same Day,35.0
+ORD-00044,2024-05-09,C0016,Liam Davis,Home Office,South,North Carolina,Furniture,Chairs,Ergonomic Chair,399,5,0.05,1895.25,1256.85,638.4,Bank Transfer,Second Class,33.68
+ORD-00045,2025-01-18,C0139,Isha Wilson,Home Office,Central,Texas,Furniture,Tables,Study Desk,279,4,0.15,948.6,669.6,279.0,Bank Transfer,First Class,29.41
+ORD-00046,2025-05-14,C0014,Isha Smith,Consumer,Central,Ohio,Technology,Computers,Monitor,249,2,0.0,498.0,288.84,209.16,UPI,Same Day,42.0
+ORD-00047,2025-04-09,C0175,Noah Garcia,Consumer,West,Washington,Furniture,Chairs,Office Chair,199,4,0.0,796.0,453.72,342.28,Credit Card,First Class,43.0
+ORD-00048,2024-09-15,C0068,Kavya Davis,Home Office,Central,Ohio,Office Supplies,Storage,Storage Box,32,10,0.2,256.0,137.6,118.4,Debit Card,Second Class,46.25
+ORD-00049,2025-10-21,C0140,Aarav Sharma,Consumer,East,New York,Office Supplies,Writing,Pen Pack,12,12,0.0,144.0,43.2,100.8,UPI,Same Day,70.0
+ORD-00050,2025-07-08,C0020,Aarav Davis,Consumer,Central,Texas,Office Supplies,Writing,Pen Pack,12,7,0.1,75.6,25.2,50.4,Bank Transfer,Standard Class,66.67
+ORD-00051,2024-07-09,C0072,Ananya Smith,Corporate,South,Georgia,Technology,Accessories,USB-C Hub,59,1,0.15,50.15,26.55,23.6,Credit Card,Same Day,47.06
+ORD-00052,2024-04-22,C0053,Kavya Sharma,Home Office,West,Oregon,Office Supplies,Storage,Storage Box,32,3,0.1,86.4,41.28,45.12,Bank Transfer,Same Day,52.22
+ORD-00053,2025-09-05,C0150,Noah Brown,Home Office,Central,Illinois,Technology,Accessories,USB-C Hub,59,5,0.1,265.5,132.75,132.75,Credit Card,Second Class,50.0
+ORD-00054,2025-08-24,C0118,Ananya Wilson,Consumer,South,North Carolina,Furniture,Chairs,Office Chair,199,1,0.0,199.0,113.43,85.57,UPI,First Class,43.0
+ORD-00055,2024-07-29,C0138,Isha Brown,Home Office,West,Oregon,Furniture,Chairs,Ergonomic Chair,399,1,0.1,359.1,251.37,107.73,Bank Transfer,Standard Class,30.0
+ORD-00056,2024-04-10,C0114,Isha Wilson,Consumer,South,North Carolina,Technology,Computers,Monitor,249,3,0.0,747.0,433.26,313.74,Debit Card,First Class,42.0
+ORD-00057,2025-02-25,C0049,Kavya Davis,Home Office,West,Washington,Office Supplies,Storage,Filing Cabinet,189,9,0.0,1701.0,1037.61,663.39,Bank Transfer,Second Class,39.0
+ORD-00058,2025-08-16,C0061,Ethan Brown,Consumer,South,Georgia,Office Supplies,Paper,Copy Paper,15,10,0.0,150.0,52.5,97.5,UPI,Standard Class,65.0
+ORD-00059,2025-09-19,C0079,Noah Sharma,Consumer,East,New York,Technology,Accessories,Laptop Sleeve,35,3,0.0,105.0,39.9,65.1,Bank Transfer,Standard Class,62.0
+ORD-00060,2025-01-05,C0049,Kavya Davis,Home Office,East,New York,Furniture,Chairs,Office Chair,199,4,0.1,716.4,453.72,262.68,Bank Transfer,First Class,36.67
+ORD-00061,2024-01-04,C0122,Sara Brown,Home Office,Central,Ohio,Furniture,Tables,Coffee Table,149,4,0.0,596.0,309.92,286.08,Bank Transfer,Second Class,48.0
+ORD-00062,2025-02-08,C0042,Lucas Wilson,Corporate,West,Oregon,Technology,Computers,Laptop,1099,5,0.2,4396.0,3626.7,769.3,Credit Card,Same Day,17.5
+ORD-00063,2024-08-01,C0036,Sara Garcia,Home Office,South,Florida,Office Supplies,Storage,Filing Cabinet,189,5,0.1,850.5,576.45,274.05,Bank Transfer,Standard Class,32.22
+ORD-00064,2024-07-08,C0120,Sara Brown,Home Office,East,New York,Technology,Computers,Laptop,1099,1,0.15,934.15,725.34,208.81,Credit Card,First Class,22.35
+ORD-00065,2025-04-23,C0162,Aarav Johnson,Home Office,South,Georgia,Furniture,Chairs,Office Chair,199,2,0.0,398.0,226.86,171.14,Debit Card,Standard Class,43.0
+ORD-00066,2025-10-08,C0030,Sara Wilson,Corporate,East,New York,Furniture,Tables,Study Desk,279,2,0.0,558.0,334.8,223.2,Credit Card,Second Class,40.0
+ORD-00067,2024-08-05,C0110,Mia Wilson,Home Office,South,North Carolina,Technology,Computers,Monitor,249,1,0.1,224.1,144.42,79.68,Debit Card,Same Day,35.56
+ORD-00068,2024-08-07,C0175,Noah Garcia,Consumer,Central,Texas,Office Supplies,Paper,Notebook Set,22,8,0.1,158.4,70.4,88.0,Credit Card,First Class,55.56
+ORD-00069,2025-01-07,C0145,Aarav Khan,Home Office,South,Florida,Office Supplies,Writing,Pen Pack,12,8,0.0,96.0,28.8,67.2,Debit Card,Same Day,70.0
+ORD-00070,2024-08-15,C0149,Ananya Miller,Consumer,East,New York,Furniture,Tables,Coffee Table,149,5,0.2,596.0,387.4,208.6,Debit Card,Standard Class,35.0
+ORD-00071,2025-05-21,C0149,Ananya Miller,Consumer,Central,Illinois,Technology,Computers,Monitor,249,4,0.15,846.6,577.68,268.92,Debit Card,Same Day,31.76
+ORD-00072,2025-12-09,C0172,Lucas Patel,Home Office,South,Georgia,Office Supplies,Writing,Desk Organizer,28,3,0.15,71.4,34.44,36.96,Debit Card,Second Class,51.76
+ORD-00073,2024-02-12,C0112,Ethan Patel,Corporate,Central,Texas,Technology,Computers,Monitor,249,1,0.1,224.1,144.42,79.68,Bank Transfer,Second Class,35.56
+ORD-00074,2025-07-19,C0018,Ethan Wilson,Consumer,West,California,Technology,Phones,Smartphone,699,2,0.2,1118.4,754.92,363.48,Debit Card,First Class,32.5
+ORD-00075,2025-03-31,C0029,Ananya Johnson,Consumer,Central,Ohio,Technology,Accessories,USB-C Hub,59,2,0.1,106.2,53.1,53.1,UPI,Second Class,50.0
+ORD-00076,2025-05-23,C0061,Ethan Brown,Consumer,West,Washington,Office Supplies,Storage,Storage Box,32,4,0.15,108.8,55.04,53.76,UPI,Second Class,49.41
+ORD-00077,2024-05-28,C0156,Ethan Davis,Home Office,South,Florida,Office Supplies,Paper,Copy Paper,15,10,0.1,135.0,52.5,82.5,Debit Card,First Class,61.11
+ORD-00078,2024-09-22,C0061,Ethan Brown,Consumer,East,Massachusetts,Technology,Phones,Smartphone,699,5,0.15,2970.75,1887.3,1083.45,UPI,First Class,36.47
+ORD-00079,2025-02-26,C0017,Kavya Johnson,Consumer,West,Washington,Furniture,Chairs,Ergonomic Chair,399,3,0.2,957.6,754.11,203.49,Debit Card,Same Day,21.25
+ORD-00080,2025-06-17,C0074,Mia Sharma,Corporate,East,Massachusetts,Technology,Accessories,Laptop Sleeve,35,2,0.2,56.0,26.6,29.4,Credit Card,Same Day,52.5
+ORD-00081,2025-11-16,C0020,Aarav Davis,Consumer,West,Oregon,Technology,Phones,Smartphone,699,2,0.15,1188.3,754.92,433.38,Bank Transfer,Standard Class,36.47
+ORD-00082,2024-02-07,C0089,Kavya Garcia,Corporate,Central,Texas,Office Supplies,Storage,Storage Box,32,12,0.0,384.0,165.12,218.88,UPI,Standard Class,57.0
+ORD-00083,2025-05-28,C0116,Ananya Garcia,Home Office,East,Pennsylvania,Furniture,Tables,Study Desk,279,2,0.0,558.0,334.8,223.2,Debit Card,Same Day,40.0
+ORD-00084,2024-04-15,C0175,Noah Garcia,Consumer,West,California,Technology,Computers,Laptop,1099,3,0.05,3132.15,2176.02,956.13,UPI,Same Day,30.53
+ORD-00085,2025-11-02,C0017,Kavya Johnson,Consumer,West,California,Furniture,Chairs,Ergonomic Chair,399,3,0.0,1197.0,754.11,442.89,Bank Transfer,Same Day,37.0
+ORD-00086,2025-07-18,C0069,Noah Patel,Corporate,East,Massachusetts,Furniture,Chairs,Office Chair,199,4,0.2,636.8,453.72,183.08,Debit Card,Standard Class,28.75
+ORD-00087,2024-04-25,C0018,Ethan Wilson,Consumer,West,Oregon,Technology,Accessories,Laptop Sleeve,35,4,0.05,133.0,53.2,79.8,Credit Card,Same Day,60.0
+ORD-00088,2025-02-25,C0168,Aarav Patel,Consumer,East,New York,Technology,Computers,Laptop,1099,3,0.0,3297.0,2176.02,1120.98,UPI,Standard Class,34.0
+ORD-00089,2024-08-28,C0178,Isha Khan,Corporate,East,New York,Office Supplies,Writing,Desk Organizer,28,10,0.0,280.0,114.8,165.2,UPI,First Class,59.0
+ORD-00090,2024-11-12,C0087,Sara Miller,Consumer,East,Pennsylvania,Furniture,Chairs,Office Chair,199,2,0.15,338.3,226.86,111.44,Credit Card,First Class,32.94
+ORD-00091,2025-03-06,C0132,Lucas Smith,Consumer,South,North Carolina,Technology,Phones,Wireless Headset,129,4,0.1,464.4,252.84,211.56,Bank Transfer,Second Class,45.56
+ORD-00092,2024-10-18,C0027,Mia Brown,Home Office,East,Massachusetts,Furniture,Chairs,Office Chair,199,4,0.0,796.0,453.72,342.28,UPI,Second Class,43.0
+ORD-00093,2025-05-03,C0141,Lucas Johnson,Consumer,South,North Carolina,Office Supplies,Writing,Desk Organizer,28,3,0.15,71.4,34.44,36.96,Credit Card,Same Day,51.76
+ORD-00094,2025-05-06,C0169,Aarav Patel,Home Office,South,Georgia,Furniture,Tables,Study Desk,279,5,0.0,1395.0,837.0,558.0,Bank Transfer,Same Day,40.0
+ORD-00095,2025-10-23,C0161,Kavya Brown,Home Office,East,Massachusetts,Furniture,Chairs,Office Chair,199,5,0.0,995.0,567.15,427.85,Debit Card,Same Day,43.0
+ORD-00096,2024-07-22,C0060,Aarav Davis,Corporate,West,Oregon,Technology,Phones,Smartphone,699,3,0.15,1782.45,1132.38,650.07,Bank Transfer,First Class,36.47
+ORD-00097,2024-09-28,C0015,Noah Wilson,Corporate,Central,Ohio,Furniture,Chairs,Office Chair,199,5,0.0,995.0,567.15,427.85,Bank Transfer,Same Day,43.0
+ORD-00098,2024-12-03,C0149,Ananya Miller,Consumer,Central,Ohio,Technology,Accessories,Laptop Sleeve,35,5,0.0,175.0,66.5,108.5,Debit Card,Same Day,62.0
+ORD-00099,2025-11-22,C0100,Ethan Sharma,Home Office,South,Florida,Technology,Phones,Wireless Headset,129,1,0.05,122.55,63.21,59.34,UPI,Same Day,48.42
+ORD-00100,2024-08-30,C0019,Aarav Patel,Home Office,Central,Ohio,Technology,Computers,Monitor,249,2,0.05,473.1,288.84,184.26,UPI,Same Day,38.95
+ORD-00101,2024-10-09,C0151,Isha Patel,Corporate,Central,Ohio,Office Supplies,Paper,Copy Paper,15,10,0.1,135.0,52.5,82.5,Credit Card,First Class,61.11
+ORD-00102,2025-09-18,C0140,Aarav Sharma,Consumer,East,Pennsylvania,Furniture,Chairs,Office Chair,199,3,0.0,597.0,340.29,256.71,Bank Transfer,First Class,43.0
+ORD-00103,2025-07-08,C0065,Kavya Sharma,Consumer,East,New York,Office Supplies,Writing,Pen Pack,12,9,0.15,91.8,32.4,59.4,Debit Card,Second Class,64.71
+ORD-00104,2024-08-20,C0096,Noah Khan,Corporate,West,Washington,Office Supplies,Writing,Pen Pack,12,10,0.0,120.0,36.0,84.0,Debit Card,First Class,70.0
+ORD-00105,2024-03-12,C0136,Ethan Miller,Consumer,West,Washington,Furniture,Chairs,Ergonomic Chair,399,2,0.0,798.0,502.74,295.26,Bank Transfer,Standard Class,37.0
+ORD-00106,2024-12-30,C0085,Kavya Smith,Consumer,West,Washington,Technology,Accessories,Laptop Sleeve,35,1,0.1,31.5,13.3,18.2,Credit Card,First Class,57.78
+ORD-00107,2025-01-21,C0106,Sara Smith,Consumer,East,Pennsylvania,Furniture,Tables,Coffee Table,149,2,0.0,298.0,154.96,143.04,Credit Card,First Class,48.0
+ORD-00108,2025-02-25,C0122,Sara Brown,Home Office,West,Washington,Technology,Computers,Monitor,249,1,0.15,211.65,144.42,67.23,Bank Transfer,Same Day,31.76
+ORD-00109,2024-07-04,C0071,Lucas Sharma,Corporate,West,Washington,Furniture,Tables,Study Desk,279,4,0.2,892.8,669.6,223.2,Debit Card,Standard Class,25.0
+ORD-00110,2025-05-08,C0129,Kavya Smith,Home Office,South,North Carolina,Furniture,Tables,Study Desk,279,4,0.0,1116.0,669.6,446.4,Credit Card,Second Class,40.0
+ORD-00111,2024-10-18,C0121,Mia Johnson,Corporate,South,Florida,Office Supplies,Storage,Storage Box,32,6,0.2,153.6,82.56,71.04,Bank Transfer,First Class,46.25
+ORD-00112,2025-05-13,C0016,Liam Davis,Home Office,East,New York,Office Supplies,Paper,Copy Paper,15,7,0.2,84.0,36.75,47.25,Credit Card,Same Day,56.25
+ORD-00113,2025-07-18,C0052,Mia Sharma,Consumer,South,Georgia,Technology,Computers,Laptop,1099,4,0.2,3516.8,2901.36,615.44,Debit Card,Second Class,17.5
+ORD-00114,2024-01-23,C0178,Isha Khan,Corporate,South,Florida,Technology,Phones,Wireless Headset,129,4,0.05,490.2,252.84,237.36,UPI,Same Day,48.42
+ORD-00115,2025-06-22,C0029,Ananya Johnson,Consumer,East,Massachusetts,Office Supplies,Writing,Pen Pack,12,9,0.0,108.0,32.4,75.6,Credit Card,Second Class,70.0
+ORD-00116,2025-12-11,C0037,Lucas Smith,Corporate,West,Oregon,Office Supplies,Writing,Desk Organizer,28,5,0.0,140.0,57.4,82.6,Credit Card,Same Day,59.0
+ORD-00117,2025-02-19,C0086,Noah Sharma,Home Office,West,Oregon,Office Supplies,Storage,Filing Cabinet,189,4,0.0,756.0,461.16,294.84,Credit Card,Second Class,39.0
+ORD-00118,2024-07-02,C0130,Isha Sharma,Corporate,East,Massachusetts,Office Supplies,Writing,Desk Organizer,28,12,0.0,336.0,137.76,198.24,Debit Card,Same Day,59.0
+ORD-00119,2025-02-19,C0050,Mia Miller,Corporate,Central,Illinois,Technology,Computers,Laptop,1099,3,0.1,2967.3,2176.02,791.28,UPI,Same Day,26.67
+ORD-00120,2024-12-06,C0010,Sara Sharma,Corporate,Central,Illinois,Technology,Phones,Smartphone,699,3,0.05,1992.15,1132.38,859.77,Credit Card,Standard Class,43.16
+ORD-00121,2025-08-10,C0064,Aarav Miller,Home Office,South,Florida,Office Supplies,Writing,Desk Organizer,28,1,0.0,28.0,11.48,16.52,Credit Card,Same Day,59.0
+ORD-00122,2024-08-01,C0141,Lucas Johnson,Consumer,West,California,Technology,Phones,Smartphone,699,4,0.1,2516.4,1509.84,1006.56,UPI,Same Day,40.0
+ORD-00123,2024-06-14,C0081,Ananya Miller,Corporate,East,Pennsylvania,Technology,Computers,Monitor,249,2,0.0,498.0,288.84,209.16,Debit Card,Standard Class,42.0
+ORD-00124,2025-08-20,C0147,Isha Johnson,Home Office,West,Oregon,Furniture,Chairs,Office Chair,199,5,0.1,895.5,567.15,328.35,Debit Card,First Class,36.67
+ORD-00125,2024-05-15,C0134,Mia Brown,Corporate,South,Georgia,Office Supplies,Writing,Desk Organizer,28,4,0.15,95.2,45.92,49.28,Credit Card,First Class,51.76
+ORD-00126,2024-01-03,C0138,Isha Brown,Home Office,Central,Texas,Office Supplies,Paper,Copy Paper,15,4,0.15,51.0,21.0,30.0,Credit Card,Second Class,58.82
+ORD-00127,2024-12-10,C0083,Ananya Patel,Corporate,East,Massachusetts,Technology,Accessories,USB-C Hub,59,1,0.2,47.2,26.55,20.65,Debit Card,Same Day,43.75
+ORD-00128,2024-07-31,C0017,Kavya Johnson,Consumer,South,Florida,Office Supplies,Paper,Notebook Set,22,6,0.15,112.2,52.8,59.4,Debit Card,First Class,52.94
+ORD-00129,2024-06-05,C0095,Isha Wilson,Corporate,West,California,Technology,Accessories,Laptop Sleeve,35,5,0.05,166.25,66.5,99.75,Credit Card,Second Class,60.0
+ORD-00130,2024-05-21,C0030,Sara Wilson,Corporate,West,Washington,Technology,Accessories,USB-C Hub,59,1,0.05,56.05,26.55,29.5,Debit Card,Same Day,52.63
+ORD-00131,2025-03-01,C0019,Aarav Patel,Home Office,South,North Carolina,Furniture,Chairs,Ergonomic Chair,399,5,0.0,1995.0,1256.85,738.15,Bank Transfer,Same Day,37.0
+ORD-00132,2025-11-27,C0169,Aarav Patel,Home Office,South,North Carolina,Technology,Accessories,USB-C Hub,59,3,0.05,168.15,79.65,88.5,Credit Card,First Class,52.63
+ORD-00133,2025-01-15,C0054,Liam Davis,Consumer,West,Washington,Technology,Phones,Smartphone,699,3,0.2,1677.6,1132.38,545.22,UPI,Standard Class,32.5
+ORD-00134,2024-12-23,C0097,Aarav Garcia,Home Office,Central,Texas,Office Supplies,Writing,Pen Pack,12,8,0.2,76.8,28.8,48.0,Bank Transfer,Second Class,62.5
+ORD-00135,2024-06-12,C0088,Noah Miller,Corporate,West,Oregon,Office Supplies,Paper,Notebook Set,22,6,0.1,118.8,52.8,66.0,UPI,Same Day,55.56
+ORD-00136,2025-01-21,C0175,Noah Garcia,Consumer,West,Washington,Furniture,Tables,Study Desk,279,1,0.2,223.2,167.4,55.8,Bank Transfer,Same Day,25.0
+ORD-00137,2025-05-07,C0155,Mia Smith,Consumer,East,New York,Office Supplies,Writing,Pen Pack,12,5,0.0,60.0,18.0,42.0,UPI,Same Day,70.0
+ORD-00138,2025-02-16,C0032,Aarav Khan,Home Office,South,Georgia,Technology,Accessories,Laptop Sleeve,35,2,0.05,66.5,26.6,39.9,UPI,Second Class,60.0
+ORD-00139,2024-02-07,C0069,Noah Patel,Corporate,Central,Illinois,Furniture,Chairs,Ergonomic Chair,399,2,0.2,638.4,502.74,135.66,Bank Transfer,Same Day,21.25
+ORD-00140,2025-04-11,C0036,Sara Garcia,Home Office,West,Washington,Technology,Phones,Smartphone,699,4,0.1,2516.4,1509.84,1006.56,UPI,Same Day,40.0
+ORD-00141,2024-03-24,C0095,Isha Wilson,Corporate,East,Pennsylvania,Technology,Computers,Monitor,249,2,0.05,473.1,288.84,184.26,UPI,Same Day,38.95
+ORD-00142,2025-02-04,C0171,Lucas Brown,Home Office,West,Washington,Furniture,Tables,Coffee Table,149,3,0.15,379.95,232.44,147.51,Debit Card,Standard Class,38.82
+ORD-00143,2024-10-01,C0049,Kavya Davis,Home Office,Central,Illinois,Furniture,Tables,Coffee Table,149,5,0.0,745.0,387.4,357.6,Bank Transfer,First Class,48.0
+ORD-00144,2024-09-09,C0058,Sara Miller,Consumer,South,Georgia,Office Supplies,Storage,Filing Cabinet,189,3,0.0,567.0,345.87,221.13,UPI,Standard Class,39.0
+ORD-00145,2024-03-09,C0095,Isha Wilson,Corporate,West,Washington,Furniture,Tables,Study Desk,279,1,0.0,279.0,167.4,111.6,Bank Transfer,Same Day,40.0
+ORD-00146,2025-06-06,C0049,Kavya Davis,Home Office,West,California,Technology,Phones,Wireless Headset,129,4,0.1,464.4,252.84,211.56,Bank Transfer,Same Day,45.56
+ORD-00147,2024-09-11,C0163,Aarav Patel,Corporate,South,Florida,Office Supplies,Paper,Copy Paper,15,6,0.05,85.5,31.5,54.0,Bank Transfer,Same Day,63.16
+ORD-00148,2024-07-03,C0109,Ananya Sharma,Consumer,East,Pennsylvania,Technology,Phones,Wireless Headset,129,5,0.15,548.25,316.05,232.2,Bank Transfer,Second Class,42.35
+ORD-00149,2025-07-09,C0006,Liam Khan,Corporate,West,California,Furniture,Chairs,Ergonomic Chair,399,4,0.1,1436.4,1005.48,430.92,Credit Card,Second Class,30.0
+ORD-00150,2025-07-15,C0081,Ananya Miller,Corporate,East,Pennsylvania,Office Supplies,Writing,Pen Pack,12,11,0.0,132.0,39.6,92.4,Bank Transfer,Same Day,70.0
+ORD-00151,2024-12-22,C0117,Mia Brown,Corporate,South,North Carolina,Furniture,Chairs,Office Chair,199,3,0.1,537.3,340.29,197.01,UPI,Same Day,36.67
+ORD-00152,2025-02-10,C0131,Kavya Sharma,Consumer,Central,Illinois,Technology,Accessories,Laptop Sleeve,35,2,0.0,70.0,26.6,43.4,Bank Transfer,First Class,62.0
+ORD-00153,2025-07-30,C0096,Noah Khan,Corporate,Central,Texas,Technology,Phones,Smartphone,699,1,0.2,559.2,377.46,181.74,Bank Transfer,First Class,32.5
+ORD-00154,2024-08-07,C0140,Aarav Sharma,Consumer,Central,Texas,Technology,Phones,Wireless Headset,129,3,0.2,309.6,189.63,119.97,Bank Transfer,First Class,38.75
+ORD-00155,2025-01-08,C0159,Mia Wilson,Corporate,East,Massachusetts,Office Supplies,Storage,Filing Cabinet,189,5,0.0,945.0,576.45,368.55,UPI,Second Class,39.0
+ORD-00156,2025-08-12,C0004,Noah Garcia,Home Office,Central,Texas,Technology,Accessories,Laptop Sleeve,35,5,0.0,175.0,66.5,108.5,UPI,First Class,62.0
+ORD-00157,2024-05-19,C0113,Ananya Davis,Corporate,South,Florida,Office Supplies,Storage,Storage Box,32,6,0.0,192.0,82.56,109.44,UPI,Standard Class,57.0
+ORD-00158,2024-07-11,C0031,Sara Miller,Home Office,West,California,Office Supplies,Paper,Notebook Set,22,2,0.05,41.8,17.6,24.2,Debit Card,First Class,57.89
+ORD-00159,2025-07-20,C0031,Sara Miller,Home Office,Central,Ohio,Technology,Accessories,Laptop Sleeve,35,3,0.0,105.0,39.9,65.1,Bank Transfer,Same Day,62.0
+ORD-00160,2024-07-29,C0024,Sara Miller,Corporate,East,Pennsylvania,Technology,Accessories,USB-C Hub,59,5,0.15,250.75,132.75,118.0,Credit Card,First Class,47.06
+ORD-00161,2024-05-20,C0085,Kavya Smith,Consumer,South,Georgia,Technology,Phones,Wireless Headset,129,3,0.15,328.95,189.63,139.32,Debit Card,Second Class,42.35
+ORD-00162,2025-01-06,C0038,Kavya Johnson,Consumer,West,California,Technology,Phones,Wireless Headset,129,1,0.0,129.0,63.21,65.79,Bank Transfer,Same Day,51.0
+ORD-00163,2025-08-25,C0005,Noah Patel,Consumer,East,Massachusetts,Furniture,Chairs,Ergonomic Chair,399,3,0.1,1077.3,754.11,323.19,Bank Transfer,Standard Class,30.0
+ORD-00164,2024-07-05,C0178,Isha Khan,Corporate,Central,Texas,Furniture,Chairs,Office Chair,199,1,0.2,159.2,113.43,45.77,Bank Transfer,Standard Class,28.75
+ORD-00165,2024-08-29,C0068,Kavya Davis,Home Office,South,Florida,Furniture,Tables,Coffee Table,149,2,0.05,283.1,154.96,128.14,UPI,Same Day,45.26
+ORD-00166,2025-07-07,C0158,Noah Smith,Consumer,Central,Ohio,Technology,Accessories,Laptop Sleeve,35,5,0.2,140.0,66.5,73.5,Credit Card,Standard Class,52.5
+ORD-00167,2025-08-16,C0091,Liam Garcia,Corporate,West,California,Office Supplies,Paper,Notebook Set,22,12,0.1,237.6,105.6,132.0,Bank Transfer,Same Day,55.56
+ORD-00168,2024-11-29,C0099,Noah Patel,Home Office,West,Oregon,Office Supplies,Paper,Copy Paper,15,7,0.0,105.0,36.75,68.25,UPI,Same Day,65.0
+ORD-00169,2024-04-15,C0067,Mia Davis,Consumer,Central,Ohio,Office Supplies,Storage,Storage Box,32,4,0.0,128.0,55.04,72.96,Bank Transfer,First Class,57.0
+ORD-00170,2025-02-01,C0066,Lucas Wilson,Corporate,East,Pennsylvania,Office Supplies,Writing,Desk Organizer,28,12,0.2,268.8,137.76,131.04,Debit Card,Second Class,48.75
+ORD-00171,2025-08-18,C0164,Isha Brown,Home Office,East,Massachusetts,Furniture,Chairs,Ergonomic Chair,399,4,0.0,1596.0,1005.48,590.52,Credit Card,Same Day,37.0
+ORD-00172,2025-04-18,C0150,Noah Brown,Home Office,Central,Ohio,Office Supplies,Storage,Filing Cabinet,189,12,0.0,2268.0,1383.48,884.52,Credit Card,Same Day,39.0
+ORD-00173,2024-03-24,C0127,Mia Khan,Corporate,Central,Illinois,Furniture,Tables,Coffee Table,149,5,0.15,633.25,387.4,245.85,Bank Transfer,Same Day,38.82
+ORD-00174,2025-12-21,C0129,Kavya Smith,Home Office,Central,Ohio,Office Supplies,Paper,Notebook Set,22,7,0.15,130.9,61.6,69.3,Credit Card,First Class,52.94
+ORD-00175,2024-08-08,C0064,Aarav Miller,Home Office,South,Florida,Furniture,Chairs,Office Chair,199,5,0.05,945.25,567.15,378.1,UPI,Standard Class,40.0
+ORD-00176,2024-02-18,C0015,Noah Wilson,Corporate,Central,Texas,Technology,Phones,Smartphone,699,4,0.0,2796.0,1509.84,1286.16,Debit Card,Same Day,46.0
+ORD-00177,2025-06-20,C0104,Lucas Garcia,Corporate,South,Georgia,Technology,Accessories,USB-C Hub,59,3,0.2,141.6,79.65,61.95,UPI,Same Day,43.75
+ORD-00178,2024-11-20,C0041,Kavya Davis,Home Office,Central,Ohio,Technology,Computers,Laptop,1099,4,0.2,3516.8,2901.36,615.44,Credit Card,Second Class,17.5
+ORD-00179,2024-07-27,C0173,Liam Khan,Corporate,East,New York,Office Supplies,Writing,Pen Pack,12,2,0.0,24.0,7.2,16.8,Bank Transfer,First Class,70.0
+ORD-00180,2024-02-13,C0021,Noah Brown,Corporate,East,New York,Office Supplies,Paper,Copy Paper,15,12,0.0,180.0,63.0,117.0,Credit Card,Second Class,65.0
+ORD-00181,2025-09-19,C0105,Isha Khan,Home Office,East,New York,Office Supplies,Paper,Copy Paper,15,11,0.05,156.75,57.75,99.0,Debit Card,Standard Class,63.16
+ORD-00182,2024-10-27,C0143,Liam Patel,Home Office,East,New York,Technology,Accessories,Laptop Sleeve,35,1,0.0,35.0,13.3,21.7,Debit Card,First Class,62.0
+ORD-00183,2025-10-20,C0173,Liam Khan,Corporate,East,New York,Furniture,Chairs,Office Chair,199,4,0.2,636.8,453.72,183.08,Credit Card,First Class,28.75
+ORD-00184,2024-08-11,C0048,Lucas Patel,Consumer,Central,Ohio,Furniture,Tables,Study Desk,279,4,0.0,1116.0,669.6,446.4,Debit Card,First Class,40.0
+ORD-00185,2025-06-04,C0127,Mia Khan,Corporate,West,Washington,Furniture,Tables,Coffee Table,149,3,0.0,447.0,232.44,214.56,Bank Transfer,First Class,48.0
+ORD-00186,2024-05-23,C0128,Lucas Brown,Home Office,Central,Illinois,Furniture,Chairs,Ergonomic Chair,399,3,0.2,957.6,754.11,203.49,Bank Transfer,First Class,21.25
+ORD-00187,2024-11-19,C0175,Noah Garcia,Consumer,West,Washington,Office Supplies,Paper,Copy Paper,15,8,0.0,120.0,42.0,78.0,Bank Transfer,Same Day,65.0
+ORD-00188,2024-09-21,C0066,Lucas Wilson,Corporate,South,Georgia,Furniture,Tables,Coffee Table,149,4,0.15,506.6,309.92,196.68,Bank Transfer,First Class,38.82
+ORD-00189,2024-05-30,C0135,Aarav Davis,Corporate,South,North Carolina,Office Supplies,Storage,Storage Box,32,10,0.0,320.0,137.6,182.4,Bank Transfer,Same Day,57.0
+ORD-00190,2024-06-27,C0101,Ananya Wilson,Consumer,Central,Texas,Technology,Accessories,Laptop Sleeve,35,1,0.15,29.75,13.3,16.45,UPI,Same Day,55.29
+ORD-00191,2024-03-28,C0033,Liam Patel,Consumer,South,Georgia,Technology,Accessories,USB-C Hub,59,5,0.2,236.0,132.75,103.25,UPI,Same Day,43.75
+ORD-00192,2024-12-04,C0131,Kavya Sharma,Consumer,West,California,Furniture,Tables,Study Desk,279,1,0.2,223.2,167.4,55.8,Credit Card,Second Class,25.0
+ORD-00193,2024-11-29,C0118,Ananya Wilson,Consumer,West,California,Technology,Phones,Wireless Headset,129,5,0.05,612.75,316.05,296.7,Bank Transfer,Standard Class,48.42
+ORD-00194,2024-04-29,C0035,Ananya Johnson,Corporate,East,Pennsylvania,Furniture,Tables,Coffee Table,149,1,0.1,134.1,77.48,56.62,Bank Transfer,Second Class,42.22
+ORD-00195,2024-02-09,C0043,Sara Miller,Consumer,West,California,Office Supplies,Storage,Storage Box,32,5,0.0,160.0,68.8,91.2,Credit Card,First Class,57.0
+ORD-00196,2025-07-31,C0022,Isha Smith,Home Office,Central,Texas,Technology,Phones,Wireless Headset,129,2,0.15,219.3,126.42,92.88,Credit Card,Standard Class,42.35
+ORD-00197,2025-04-01,C0004,Noah Garcia,Home Office,East,New York,Office Supplies,Paper,Notebook Set,22,11,0.2,193.6,96.8,96.8,UPI,Standard Class,50.0
+ORD-00198,2025-07-28,C0180,Mia Johnson,Corporate,Central,Illinois,Office Supplies,Storage,Storage Box,32,8,0.0,256.0,110.08,145.92,Bank Transfer,Standard Class,57.0
+ORD-00199,2024-07-16,C0020,Aarav Davis,Consumer,East,Pennsylvania,Office Supplies,Writing,Desk Organizer,28,8,0.15,190.4,91.84,98.56,UPI,Second Class,51.76
+ORD-00200,2025-04-27,C0022,Isha Smith,Home Office,West,Oregon,Technology,Accessories,Laptop Sleeve,35,1,0.0,35.0,13.3,21.7,UPI,Second Class,62.0
+ORD-00201,2025-01-04,C0130,Isha Sharma,Corporate,Central,Illinois,Technology,Accessories,Laptop Sleeve,35,1,0.2,28.0,13.3,14.7,Bank Transfer,First Class,52.5
+ORD-00202,2025-09-05,C0158,Noah Smith,Consumer,Central,Texas,Technology,Phones,Smartphone,699,4,0.0,2796.0,1509.84,1286.16,Credit Card,First Class,46.0
+ORD-00203,2025-05-27,C0032,Aarav Khan,Home Office,South,Georgia,Furniture,Tables,Study Desk,279,1,0.0,279.0,167.4,111.6,Credit Card,Second Class,40.0
+ORD-00204,2024-08-29,C0060,Aarav Davis,Corporate,Central,Ohio,Technology,Phones,Smartphone,699,2,0.15,1188.3,754.92,433.38,Credit Card,Same Day,36.47
+ORD-00205,2024-12-09,C0115,Aarav Sharma,Consumer,West,Oregon,Technology,Accessories,USB-C Hub,59,4,0.1,212.4,106.2,106.2,Credit Card,Same Day,50.0
+ORD-00206,2024-02-23,C0119,Kavya Khan,Consumer,Central,Ohio,Technology,Accessories,Laptop Sleeve,35,3,0.15,89.25,39.9,49.35,Debit Card,First Class,55.29
+ORD-00207,2024-12-22,C0049,Kavya Davis,Home Office,West,California,Technology,Computers,Monitor,249,5,0.05,1182.75,722.1,460.65,UPI,Second Class,38.95
+ORD-00208,2024-10-11,C0079,Noah Sharma,Consumer,West,Washington,Office Supplies,Storage,Filing Cabinet,189,1,0.05,179.55,115.29,64.26,UPI,Standard Class,35.79
+ORD-00209,2025-04-29,C0123,Ananya Patel,Corporate,Central,Ohio,Technology,Accessories,Laptop Sleeve,35,5,0.15,148.75,66.5,82.25,Credit Card,Second Class,55.29
+ORD-00210,2025-10-13,C0169,Aarav Patel,Home Office,East,Pennsylvania,Technology,Phones,Smartphone,699,4,0.0,2796.0,1509.84,1286.16,Debit Card,Standard Class,46.0
+ORD-00211,2024-02-16,C0100,Ethan Sharma,Home Office,South,North Carolina,Furniture,Chairs,Ergonomic Chair,399,5,0.15,1695.75,1256.85,438.9,UPI,Standard Class,25.88
+ORD-00212,2025-10-30,C0003,Liam Johnson,Corporate,West,California,Technology,Phones,Wireless Headset,129,1,0.0,129.0,63.21,65.79,Debit Card,Standard Class,51.0
+ORD-00213,2025-03-27,C0129,Kavya Smith,Home Office,South,North Carolina,Technology,Computers,Monitor,249,4,0.05,946.2,577.68,368.52,Bank Transfer,Standard Class,38.95
+ORD-00214,2025-09-10,C0082,Sara Johnson,Corporate,East,Pennsylvania,Technology,Accessories,Laptop Sleeve,35,4,0.0,140.0,53.2,86.8,Bank Transfer,Same Day,62.0
+ORD-00215,2025-08-15,C0063,Mia Patel,Consumer,West,Washington,Office Supplies,Writing,Desk Organizer,28,5,0.1,126.0,57.4,68.6,Debit Card,First Class,54.44
+ORD-00216,2025-09-28,C0103,Lucas Wilson,Consumer,West,Washington,Furniture,Chairs,Ergonomic Chair,399,5,0.0,1995.0,1256.85,738.15,Debit Card,First Class,37.0
+ORD-00217,2025-04-14,C0011,Kavya Sharma,Corporate,Central,Ohio,Technology,Phones,Smartphone,699,2,0.2,1118.4,754.92,363.48,UPI,First Class,32.5
+ORD-00218,2025-02-01,C0096,Noah Khan,Corporate,East,New York,Furniture,Tables,Coffee Table,149,3,0.0,447.0,232.44,214.56,UPI,Standard Class,48.0
+ORD-00219,2024-07-31,C0053,Kavya Sharma,Home Office,East,Massachusetts,Technology,Phones,Wireless Headset,129,2,0.0,258.0,126.42,131.58,Debit Card,First Class,51.0
+ORD-00220,2024-11-13,C0047,Lucas Miller,Corporate,South,Florida,Office Supplies,Paper,Copy Paper,15,9,0.05,128.25,47.25,81.0,Debit Card,First Class,63.16
+ORD-00221,2025-04-18,C0127,Mia Khan,Corporate,East,New York,Office Supplies,Storage,Filing Cabinet,189,9,0.05,1615.95,1037.61,578.34,Bank Transfer,Standard Class,35.79
+ORD-00222,2025-08-23,C0054,Liam Davis,Consumer,East,Pennsylvania,Office Supplies,Paper,Notebook Set,22,12,0.1,237.6,105.6,132.0,UPI,Second Class,55.56
+ORD-00223,2024-08-23,C0096,Noah Khan,Corporate,West,California,Technology,Phones,Smartphone,699,3,0.0,2097.0,1132.38,964.62,Credit Card,Standard Class,46.0
+ORD-00224,2024-06-04,C0040,Kavya Garcia,Corporate,West,Oregon,Technology,Computers,Laptop,1099,3,0.1,2967.3,2176.02,791.28,Credit Card,First Class,26.67
+ORD-00225,2024-08-04,C0063,Mia Patel,Consumer,Central,Illinois,Office Supplies,Paper,Copy Paper,15,12,0.05,171.0,63.0,108.0,UPI,Standard Class,63.16
+ORD-00226,2024-06-29,C0100,Ethan Sharma,Home Office,South,North Carolina,Furniture,Chairs,Office Chair,199,5,0.05,945.25,567.15,378.1,Credit Card,Second Class,40.0
+ORD-00227,2024-11-02,C0141,Lucas Johnson,Consumer,West,California,Office Supplies,Storage,Storage Box,32,2,0.15,54.4,27.52,26.88,Bank Transfer,Second Class,49.41
+ORD-00228,2025-02-09,C0095,Isha Wilson,Corporate,Central,Texas,Office Supplies,Storage,Filing Cabinet,189,3,0.05,538.65,345.87,192.78,Bank Transfer,Second Class,35.79
+ORD-00229,2025-03-16,C0170,Mia Patel,Home Office,Central,Illinois,Furniture,Tables,Study Desk,279,5,0.15,1185.75,837.0,348.75,UPI,Same Day,29.41
+ORD-00230,2024-07-24,C0103,Lucas Wilson,Consumer,East,New York,Technology,Computers,Monitor,249,1,0.1,224.1,144.42,79.68,Credit Card,Second Class,35.56
+ORD-00231,2024-09-16,C0069,Noah Patel,Corporate,West,California,Furniture,Chairs,Office Chair,199,1,0.1,179.1,113.43,65.67,Credit Card,Second Class,36.67
+ORD-00232,2024-10-16,C0021,Noah Brown,Corporate,South,Georgia,Office Supplies,Writing,Pen Pack,12,12,0.2,115.2,43.2,72.0,UPI,Standard Class,62.5
+ORD-00233,2024-10-18,C0065,Kavya Sharma,Consumer,West,Oregon,Furniture,Chairs,Ergonomic Chair,399,2,0.2,638.4,502.74,135.66,Debit Card,Same Day,21.25
+ORD-00234,2025-05-12,C0048,Lucas Patel,Consumer,East,New York,Technology,Computers,Laptop,1099,5,0.05,5220.25,3626.7,1593.55,Debit Card,Second Class,30.53
+ORD-00235,2025-09-23,C0148,Ananya Patel,Consumer,West,Oregon,Office Supplies,Storage,Storage Box,32,6,0.0,192.0,82.56,109.44,Debit Card,Same Day,57.0
+ORD-00236,2024-09-21,C0050,Mia Miller,Corporate,West,Washington,Office Supplies,Writing,Pen Pack,12,8,0.0,96.0,28.8,67.2,UPI,Second Class,70.0
+ORD-00237,2024-08-01,C0053,Kavya Sharma,Home Office,East,Pennsylvania,Technology,Computers,Laptop,1099,3,0.0,3297.0,2176.02,1120.98,Debit Card,Same Day,34.0
+ORD-00238,2025-12-10,C0067,Mia Davis,Consumer,East,Massachusetts,Technology,Accessories,Laptop Sleeve,35,5,0.0,175.0,66.5,108.5,Debit Card,First Class,62.0
+ORD-00239,2025-07-09,C0047,Lucas Miller,Corporate,West,Washington,Office Supplies,Storage,Storage Box,32,6,0.0,192.0,82.56,109.44,Bank Transfer,Second Class,57.0
+ORD-00240,2024-02-15,C0094,Sara Smith,Corporate,West,California,Technology,Computers,Laptop,1099,5,0.0,5495.0,3626.7,1868.3,Bank Transfer,First Class,34.0
+ORD-00241,2025-12-25,C0113,Ananya Davis,Corporate,West,Washington,Technology,Accessories,USB-C Hub,59,4,0.1,212.4,106.2,106.2,Credit Card,First Class,50.0
+ORD-00242,2024-02-11,C0126,Mia Wilson,Consumer,East,Massachusetts,Office Supplies,Storage,Storage Box,32,5,0.0,160.0,68.8,91.2,UPI,Standard Class,57.0
+ORD-00243,2025-12-05,C0011,Kavya Sharma,Corporate,East,New York,Office Supplies,Storage,Storage Box,32,5,0.0,160.0,68.8,91.2,UPI,First Class,57.0
+ORD-00244,2025-08-05,C0162,Aarav Johnson,Home Office,East,New York,Office Supplies,Paper,Notebook Set,22,4,0.0,88.0,35.2,52.8,Bank Transfer,Second Class,60.0
+ORD-00245,2024-05-11,C0140,Aarav Sharma,Consumer,Central,Ohio,Furniture,Chairs,Office Chair,199,1,0.15,169.15,113.43,55.72,Bank Transfer,First Class,32.94
+ORD-00246,2024-08-18,C0102,Lucas Smith,Consumer,Central,Illinois,Furniture,Chairs,Ergonomic Chair,399,2,0.0,798.0,502.74,295.26,UPI,Same Day,37.0
+ORD-00247,2024-06-19,C0062,Ananya Garcia,Consumer,Central,Texas,Office Supplies,Storage,Storage Box,32,9,0.05,273.6,123.84,149.76,Debit Card,Second Class,54.74
+ORD-00248,2024-03-24,C0019,Aarav Patel,Home Office,Central,Illinois,Furniture,Chairs,Office Chair,199,4,0.15,676.6,453.72,222.88,Credit Card,First Class,32.94
+ORD-00249,2024-07-28,C0148,Ananya Patel,Consumer,West,Washington,Office Supplies,Writing,Desk Organizer,28,2,0.1,50.4,22.96,27.44,Bank Transfer,Standard Class,54.44
+ORD-00250,2025-06-23,C0161,Kavya Brown,Home Office,East,Massachusetts,Furniture,Tables,Coffee Table,149,2,0.05,283.1,154.96,128.14,UPI,Same Day,45.26
+ORD-00251,2025-03-08,C0010,Sara Sharma,Corporate,South,Georgia,Furniture,Tables,Coffee Table,149,5,0.1,670.5,387.4,283.1,Credit Card,Same Day,42.22
+ORD-00252,2025-11-07,C0171,Lucas Brown,Home Office,West,Oregon,Furniture,Chairs,Ergonomic Chair,399,2,0.0,798.0,502.74,295.26,UPI,Standard Class,37.0
+ORD-00253,2025-08-22,C0062,Ananya Garcia,Consumer,South,Georgia,Office Supplies,Writing,Desk Organizer,28,6,0.2,134.4,68.88,65.52,UPI,Second Class,48.75
+ORD-00254,2025-11-21,C0127,Mia Khan,Corporate,Central,Illinois,Furniture,Chairs,Office Chair,199,3,0.0,597.0,340.29,256.71,Bank Transfer,First Class,43.0
+ORD-00255,2025-06-07,C0031,Sara Miller,Home Office,South,Florida,Technology,Accessories,USB-C Hub,59,3,0.0,177.0,79.65,97.35,UPI,Standard Class,55.0
+ORD-00256,2024-04-12,C0008,Ananya Miller,Consumer,West,California,Furniture,Chairs,Ergonomic Chair,399,3,0.15,1017.45,754.11,263.34,Credit Card,First Class,25.88
+ORD-00257,2024-04-16,C0059,Isha Wilson,Home Office,Central,Texas,Office Supplies,Writing,Pen Pack,12,7,0.1,75.6,25.2,50.4,Credit Card,First Class,66.67
+ORD-00258,2024-05-04,C0167,Lucas Miller,Consumer,South,Florida,Technology,Accessories,USB-C Hub,59,5,0.0,295.0,132.75,162.25,Bank Transfer,Standard Class,55.0
+ORD-00259,2025-09-01,C0153,Aarav Miller,Corporate,South,Florida,Furniture,Tables,Coffee Table,149,2,0.05,283.1,154.96,128.14,Bank Transfer,Second Class,45.26
+ORD-00260,2024-01-05,C0129,Kavya Smith,Home Office,South,North Carolina,Office Supplies,Writing,Pen Pack,12,6,0.0,72.0,21.6,50.4,Debit Card,Same Day,70.0
+ORD-00261,2025-09-15,C0116,Ananya Garcia,Home Office,South,Florida,Technology,Phones,Wireless Headset,129,3,0.1,348.3,189.63,158.67,UPI,Same Day,45.56
+ORD-00262,2025-01-18,C0129,Kavya Smith,Home Office,South,Florida,Office Supplies,Storage,Storage Box,32,7,0.0,224.0,96.32,127.68,UPI,Standard Class,57.0
+ORD-00263,2025-09-07,C0144,Ananya Sharma,Home Office,South,Florida,Office Supplies,Storage,Filing Cabinet,189,11,0.1,1871.1,1268.19,602.91,Debit Card,Standard Class,32.22
+ORD-00264,2025-04-07,C0098,Mia Wilson,Home Office,South,Florida,Technology,Accessories,Laptop Sleeve,35,5,0.15,148.75,66.5,82.25,UPI,Same Day,55.29
+ORD-00265,2024-03-16,C0138,Isha Brown,Home Office,East,Pennsylvania,Office Supplies,Storage,Storage Box,32,9,0.0,288.0,123.84,164.16,Credit Card,Standard Class,57.0
+ORD-00266,2024-04-02,C0141,Lucas Johnson,Consumer,East,New York,Technology,Computers,Monitor,249,5,0.0,1245.0,722.1,522.9,Bank Transfer,Second Class,42.0
+ORD-00267,2025-06-10,C0025,Noah Khan,Home Office,South,Florida,Furniture,Tables,Coffee Table,149,5,0.0,745.0,387.4,357.6,Debit Card,Standard Class,48.0
+ORD-00268,2024-09-29,C0014,Isha Smith,Consumer,West,Oregon,Technology,Phones,Smartphone,699,5,0.0,3495.0,1887.3,1607.7,Debit Card,Same Day,46.0
+ORD-00269,2025-02-28,C0164,Isha Brown,Home Office,West,California,Furniture,Chairs,Office Chair,199,1,0.2,159.2,113.43,45.77,Bank Transfer,Second Class,28.75
+ORD-00270,2025-11-03,C0070,Mia Patel,Home Office,East,Massachusetts,Furniture,Tables,Study Desk,279,2,0.1,502.2,334.8,167.4,UPI,Same Day,33.33
+ORD-00271,2024-11-29,C0084,Noah Sharma,Corporate,East,Massachusetts,Office Supplies,Storage,Storage Box,32,10,0.05,304.0,137.6,166.4,Bank Transfer,First Class,54.74
+ORD-00272,2024-01-27,C0100,Ethan Sharma,Home Office,East,Massachusetts,Office Supplies,Paper,Notebook Set,22,8,0.0,176.0,70.4,105.6,Credit Card,Second Class,60.0
+ORD-00273,2025-12-12,C0123,Ananya Patel,Corporate,East,Pennsylvania,Technology,Accessories,Laptop Sleeve,35,3,0.15,89.25,39.9,49.35,Credit Card,Second Class,55.29
+ORD-00274,2024-07-14,C0179,Noah Patel,Home Office,Central,Illinois,Office Supplies,Writing,Pen Pack,12,5,0.0,60.0,18.0,42.0,Bank Transfer,Second Class,70.0
+ORD-00275,2024-01-22,C0178,Isha Khan,Corporate,Central,Illinois,Technology,Phones,Smartphone,699,4,0.15,2376.6,1509.84,866.76,Debit Card,First Class,36.47
+ORD-00276,2024-04-09,C0126,Mia Wilson,Consumer,East,New York,Technology,Accessories,Laptop Sleeve,35,5,0.0,175.0,66.5,108.5,UPI,First Class,62.0
+ORD-00277,2024-03-02,C0160,Ethan Garcia,Home Office,South,Georgia,Furniture,Chairs,Ergonomic Chair,399,3,0.15,1017.45,754.11,263.34,Bank Transfer,Standard Class,25.88
+ORD-00278,2025-04-15,C0130,Isha Sharma,Corporate,West,Oregon,Office Supplies,Writing,Pen Pack,12,1,0.0,12.0,3.6,8.4,Bank Transfer,Same Day,70.0
+ORD-00279,2024-05-26,C0155,Mia Smith,Consumer,South,Georgia,Furniture,Chairs,Ergonomic Chair,399,4,0.1,1436.4,1005.48,430.92,Credit Card,Second Class,30.0
+ORD-00280,2025-03-15,C0165,Sara Wilson,Consumer,West,Oregon,Office Supplies,Paper,Notebook Set,22,8,0.0,176.0,70.4,105.6,Debit Card,Same Day,60.0
+ORD-00281,2025-12-30,C0039,Noah Johnson,Corporate,West,Washington,Office Supplies,Writing,Pen Pack,12,8,0.0,96.0,28.8,67.2,UPI,First Class,70.0
+ORD-00282,2024-01-01,C0026,Kavya Johnson,Corporate,Central,Ohio,Office Supplies,Writing,Pen Pack,12,11,0.0,132.0,39.6,92.4,UPI,First Class,70.0
+ORD-00283,2024-04-14,C0023,Sara Patel,Home Office,West,California,Office Supplies,Writing,Pen Pack,12,10,0.0,120.0,36.0,84.0,Debit Card,Same Day,70.0
+ORD-00284,2025-05-22,C0092,Ethan Patel,Corporate,South,North Carolina,Furniture,Chairs,Office Chair,199,4,0.1,716.4,453.72,262.68,Credit Card,Standard Class,36.67
+ORD-00285,2025-11-01,C0141,Lucas Johnson,Consumer,South,Georgia,Office Supplies,Paper,Notebook Set,22,10,0.0,220.0,88.0,132.0,Credit Card,First Class,60.0
+ORD-00286,2025-04-14,C0009,Isha Johnson,Home Office,South,North Carolina,Technology,Accessories,Laptop Sleeve,35,4,0.0,140.0,53.2,86.8,Debit Card,Same Day,62.0
+ORD-00287,2024-04-19,C0165,Sara Wilson,Consumer,South,North Carolina,Furniture,Tables,Coffee Table,149,3,0.0,447.0,232.44,214.56,Credit Card,Same Day,48.0
+ORD-00288,2024-02-02,C0127,Mia Khan,Corporate,West,Oregon,Technology,Computers,Monitor,249,3,0.05,709.65,433.26,276.39,Bank Transfer,Second Class,38.95
+ORD-00289,2025-02-24,C0159,Mia Wilson,Corporate,West,Oregon,Furniture,Chairs,Ergonomic Chair,399,2,0.1,718.2,502.74,215.46,Credit Card,Second Class,30.0
+ORD-00290,2025-05-08,C0029,Ananya Johnson,Consumer,West,Oregon,Furniture,Tables,Coffee Table,149,3,0.1,402.3,232.44,169.86,Debit Card,Second Class,42.22
+ORD-00291,2025-12-12,C0139,Isha Wilson,Home Office,Central,Texas,Office Supplies,Writing,Desk Organizer,28,7,0.0,196.0,80.36,115.64,Credit Card,Standard Class,59.0
+ORD-00292,2024-02-04,C0096,Noah Khan,Corporate,West,Washington,Technology,Accessories,USB-C Hub,59,5,0.0,295.0,132.75,162.25,Credit Card,Same Day,55.0
+ORD-00293,2024-09-19,C0064,Aarav Miller,Home Office,South,North Carolina,Technology,Accessories,USB-C Hub,59,3,0.0,177.0,79.65,97.35,Bank Transfer,Standard Class,55.0
+ORD-00294,2024-10-04,C0179,Noah Patel,Home Office,South,Georgia,Furniture,Chairs,Office Chair,199,3,0.2,477.6,340.29,137.31,Bank Transfer,Same Day,28.75
+ORD-00295,2025-01-15,C0039,Noah Johnson,Corporate,Central,Illinois,Technology,Accessories,Laptop Sleeve,35,1,0.05,33.25,13.3,19.95,Debit Card,Second Class,60.0
+ORD-00296,2024-01-24,C0178,Isha Khan,Corporate,East,Massachusetts,Office Supplies,Paper,Notebook Set,22,3,0.0,66.0,26.4,39.6,Bank Transfer,Standard Class,60.0
+ORD-00297,2025-01-27,C0076,Kavya Brown,Corporate,Central,Illinois,Office Supplies,Paper,Copy Paper,15,7,0.0,105.0,36.75,68.25,Debit Card,Second Class,65.0
+ORD-00298,2024-02-16,C0068,Kavya Davis,Home Office,West,Oregon,Technology,Phones,Wireless Headset,129,3,0.0,387.0,189.63,197.37,Bank Transfer,First Class,51.0
+ORD-00299,2025-11-27,C0010,Sara Sharma,Corporate,East,Massachusetts,Furniture,Chairs,Office Chair,199,5,0.15,845.75,567.15,278.6,Bank Transfer,Same Day,32.94
+ORD-00300,2025-11-20,C0175,Noah Garcia,Consumer,Central,Illinois,Office Supplies,Writing,Pen Pack,12,7,0.2,67.2,25.2,42.0,UPI,Same Day,62.5
+ORD-00301,2024-06-14,C0179,Noah Patel,Home Office,Central,Texas,Furniture,Tables,Study Desk,279,3,0.1,753.3,502.2,251.1,Credit Card,First Class,33.33
+ORD-00302,2024-06-22,C0038,Kavya Johnson,Consumer,South,Georgia,Office Supplies,Paper,Notebook Set,22,5,0.05,104.5,44.0,60.5,Debit Card,First Class,57.89
+ORD-00303,2024-11-15,C0163,Aarav Patel,Corporate,Central,Illinois,Furniture,Tables,Coffee Table,149,4,0.1,536.4,309.92,226.48,Debit Card,First Class,42.22
+ORD-00304,2024-12-08,C0150,Noah Brown,Home Office,South,North Carolina,Office Supplies,Writing,Desk Organizer,28,1,0.05,26.6,11.48,15.12,UPI,Same Day,56.84
+ORD-00305,2025-12-31,C0119,Kavya Khan,Consumer,West,California,Technology,Phones,Smartphone,699,3,0.15,1782.45,1132.38,650.07,Debit Card,First Class,36.47
+ORD-00306,2024-05-10,C0093,Kavya Garcia,Consumer,Central,Illinois,Technology,Phones,Smartphone,699,4,0.1,2516.4,1509.84,1006.56,UPI,Same Day,40.0
+ORD-00307,2024-02-24,C0178,Isha Khan,Corporate,South,North Carolina,Technology,Accessories,Laptop Sleeve,35,5,0.05,166.25,66.5,99.75,Credit Card,Same Day,60.0
+ORD-00308,2025-08-19,C0121,Mia Johnson,Corporate,South,North Carolina,Technology,Phones,Wireless Headset,129,1,0.1,116.1,63.21,52.89,UPI,Standard Class,45.56
+ORD-00309,2024-07-04,C0167,Lucas Miller,Consumer,Central,Ohio,Technology,Phones,Wireless Headset,129,1,0.15,109.65,63.21,46.44,Debit Card,Same Day,42.35
+ORD-00310,2024-06-15,C0175,Noah Garcia,Consumer,South,North Carolina,Furniture,Tables,Study Desk,279,3,0.2,669.6,502.2,167.4,Debit Card,Same Day,25.0
+ORD-00311,2025-07-10,C0038,Kavya Johnson,Consumer,West,California,Furniture,Tables,Study Desk,279,4,0.0,1116.0,669.6,446.4,Debit Card,Standard Class,40.0
+ORD-00312,2025-03-15,C0114,Isha Wilson,Consumer,West,California,Furniture,Tables,Study Desk,279,5,0.2,1116.0,837.0,279.0,Bank Transfer,Standard Class,25.0
+ORD-00313,2025-07-12,C0086,Noah Sharma,Home Office,South,Georgia,Furniture,Tables,Coffee Table,149,4,0.2,476.8,309.92,166.88,Bank Transfer,Second Class,35.0
+ORD-00314,2024-10-07,C0063,Mia Patel,Consumer,South,North Carolina,Furniture,Tables,Study Desk,279,3,0.0,837.0,502.2,334.8,Credit Card,First Class,40.0
+ORD-00315,2024-01-09,C0180,Mia Johnson,Corporate,South,North Carolina,Office Supplies,Storage,Filing Cabinet,189,4,0.1,680.4,461.16,219.24,Debit Card,Same Day,32.22
+ORD-00316,2025-02-03,C0153,Aarav Miller,Corporate,East,Massachusetts,Office Supplies,Writing,Pen Pack,12,4,0.05,45.6,14.4,31.2,Credit Card,Standard Class,68.42
+ORD-00317,2024-01-20,C0075,Noah Johnson,Corporate,South,Florida,Office Supplies,Storage,Storage Box,32,11,0.05,334.4,151.36,183.04,Debit Card,First Class,54.74
+ORD-00318,2024-01-17,C0100,Ethan Sharma,Home Office,West,Oregon,Office Supplies,Storage,Filing Cabinet,189,3,0.2,453.6,345.87,107.73,UPI,Standard Class,23.75
+ORD-00319,2025-12-23,C0089,Kavya Garcia,Corporate,West,California,Office Supplies,Paper,Copy Paper,15,10,0.15,127.5,52.5,75.0,Debit Card,Second Class,58.82
+ORD-00320,2025-11-15,C0141,Lucas Johnson,Consumer,East,Pennsylvania,Office Supplies,Paper,Copy Paper,15,10,0.0,150.0,52.5,97.5,Credit Card,First Class,65.0
+ORD-00321,2024-08-06,C0149,Ananya Miller,Consumer,South,Florida,Office Supplies,Paper,Notebook Set,22,8,0.2,140.8,70.4,70.4,Debit Card,First Class,50.0
+ORD-00322,2025-08-31,C0052,Mia Sharma,Consumer,West,Washington,Furniture,Chairs,Office Chair,199,5,0.2,796.0,567.15,228.85,UPI,Standard Class,28.75
+ORD-00323,2024-07-28,C0003,Liam Johnson,Corporate,Central,Texas,Furniture,Chairs,Office Chair,199,2,0.05,378.1,226.86,151.24,Debit Card,Standard Class,40.0
+ORD-00324,2024-01-31,C0027,Mia Brown,Home Office,West,Oregon,Technology,Accessories,Laptop Sleeve,35,5,0.2,140.0,66.5,73.5,Credit Card,Second Class,52.5
+ORD-00325,2024-12-24,C0018,Ethan Wilson,Consumer,South,North Carolina,Furniture,Chairs,Ergonomic Chair,399,4,0.1,1436.4,1005.48,430.92,UPI,Same Day,30.0
+ORD-00326,2024-07-26,C0079,Noah Sharma,Consumer,South,North Carolina,Furniture,Tables,Coffee Table,149,2,0.0,298.0,154.96,143.04,Bank Transfer,First Class,48.0
+ORD-00327,2024-05-24,C0161,Kavya Brown,Home Office,Central,Ohio,Technology,Accessories,Laptop Sleeve,35,1,0.0,35.0,13.3,21.7,Debit Card,Standard Class,62.0
+ORD-00328,2025-12-07,C0112,Ethan Patel,Corporate,Central,Texas,Office Supplies,Storage,Filing Cabinet,189,10,0.0,1890.0,1152.9,737.1,Bank Transfer,Standard Class,39.0
+ORD-00329,2024-07-10,C0149,Ananya Miller,Consumer,South,North Carolina,Furniture,Chairs,Office Chair,199,2,0.2,318.4,226.86,91.54,Debit Card,Standard Class,28.75
+ORD-00330,2024-05-30,C0130,Isha Sharma,Corporate,East,New York,Technology,Accessories,Laptop Sleeve,35,3,0.0,105.0,39.9,65.1,Bank Transfer,Second Class,62.0
+ORD-00331,2025-01-06,C0025,Noah Khan,Home Office,East,Pennsylvania,Technology,Phones,Wireless Headset,129,2,0.05,245.1,126.42,118.68,Bank Transfer,Same Day,48.42
+ORD-00332,2025-03-23,C0005,Noah Patel,Consumer,South,Georgia,Technology,Computers,Monitor,249,3,0.15,634.95,433.26,201.69,Credit Card,First Class,31.76
+ORD-00333,2024-01-09,C0056,Liam Brown,Consumer,West,Oregon,Office Supplies,Paper,Copy Paper,15,11,0.05,156.75,57.75,99.0,Debit Card,Second Class,63.16
+ORD-00334,2024-08-21,C0052,Mia Sharma,Consumer,West,Washington,Technology,Accessories,Laptop Sleeve,35,3,0.0,105.0,39.9,65.1,Debit Card,Same Day,62.0
+ORD-00335,2024-02-22,C0089,Kavya Garcia,Corporate,East,New York,Technology,Accessories,USB-C Hub,59,3,0.1,159.3,79.65,79.65,UPI,Same Day,50.0
+ORD-00336,2025-06-06,C0130,Isha Sharma,Corporate,Central,Texas,Technology,Accessories,USB-C Hub,59,5,0.0,295.0,132.75,162.25,Debit Card,First Class,55.0
+ORD-00337,2025-03-16,C0157,Noah Patel,Consumer,South,Florida,Office Supplies,Writing,Desk Organizer,28,1,0.0,28.0,11.48,16.52,Debit Card,Same Day,59.0
+ORD-00338,2025-07-20,C0030,Sara Wilson,Corporate,South,North Carolina,Furniture,Chairs,Ergonomic Chair,399,2,0.0,798.0,502.74,295.26,Bank Transfer,First Class,37.0
+ORD-00339,2025-05-08,C0153,Aarav Miller,Corporate,South,Georgia,Office Supplies,Storage,Filing Cabinet,189,8,0.2,1209.6,922.32,287.28,Bank Transfer,Standard Class,23.75
+ORD-00340,2024-05-05,C0072,Ananya Smith,Corporate,Central,Ohio,Furniture,Tables,Study Desk,279,4,0.05,1060.2,669.6,390.6,Bank Transfer,Second Class,36.84
+ORD-00341,2024-01-05,C0097,Aarav Garcia,Home Office,East,New York,Furniture,Tables,Coffee Table,149,1,0.0,149.0,77.48,71.52,UPI,Standard Class,48.0
+ORD-00342,2024-02-05,C0147,Isha Johnson,Home Office,South,North Carolina,Office Supplies,Paper,Notebook Set,22,9,0.0,198.0,79.2,118.8,Bank Transfer,Same Day,60.0
+ORD-00343,2025-12-16,C0016,Liam Davis,Home Office,Central,Ohio,Furniture,Tables,Study Desk,279,1,0.2,223.2,167.4,55.8,UPI,Standard Class,25.0
+ORD-00344,2024-03-01,C0084,Noah Sharma,Corporate,Central,Texas,Office Supplies,Writing,Desk Organizer,28,6,0.05,159.6,68.88,90.72,Debit Card,Standard Class,56.84
+ORD-00345,2024-06-08,C0157,Noah Patel,Consumer,West,Oregon,Office Supplies,Paper,Notebook Set,22,1,0.05,20.9,8.8,12.1,Credit Card,First Class,57.89
+ORD-00346,2025-07-13,C0047,Lucas Miller,Corporate,South,Georgia,Technology,Phones,Wireless Headset,129,2,0.1,232.2,126.42,105.78,Credit Card,First Class,45.56
+ORD-00347,2025-01-20,C0146,Liam Patel,Corporate,East,Massachusetts,Furniture,Tables,Coffee Table,149,3,0.1,402.3,232.44,169.86,Debit Card,Second Class,42.22
+ORD-00348,2024-06-29,C0124,Aarav Davis,Home Office,West,Oregon,Furniture,Tables,Study Desk,279,1,0.1,251.1,167.4,83.7,Debit Card,Standard Class,33.33
+ORD-00349,2024-03-31,C0161,Kavya Brown,Home Office,West,California,Technology,Accessories,Laptop Sleeve,35,4,0.0,140.0,53.2,86.8,Bank Transfer,Second Class,62.0
+ORD-00350,2024-07-16,C0072,Ananya Smith,Corporate,Central,Ohio,Office Supplies,Writing,Pen Pack,12,12,0.05,136.8,43.2,93.6,Credit Card,Same Day,68.42
+ORD-00351,2024-03-21,C0092,Ethan Patel,Corporate,West,Washington,Technology,Accessories,USB-C Hub,59,5,0.0,295.0,132.75,162.25,Credit Card,Standard Class,55.0
+ORD-00352,2024-01-17,C0170,Mia Patel,Home Office,South,North Carolina,Furniture,Tables,Study Desk,279,4,0.1,1004.4,669.6,334.8,Bank Transfer,Standard Class,33.33
+ORD-00353,2024-05-05,C0088,Noah Miller,Corporate,West,Oregon,Furniture,Chairs,Ergonomic Chair,399,4,0.05,1516.2,1005.48,510.72,UPI,Same Day,33.68
+ORD-00354,2024-01-30,C0103,Lucas Wilson,Consumer,West,California,Technology,Computers,Monitor,249,4,0.05,946.2,577.68,368.52,Debit Card,First Class,38.95
+ORD-00355,2025-12-17,C0035,Ananya Johnson,Corporate,South,Georgia,Technology,Accessories,USB-C Hub,59,4,0.2,188.8,106.2,82.6,Debit Card,Standard Class,43.75
+ORD-00356,2025-08-08,C0012,Ethan Sharma,Consumer,West,Washington,Technology,Accessories,USB-C Hub,59,2,0.0,118.0,53.1,64.9,UPI,First Class,55.0
+ORD-00357,2024-01-07,C0118,Ananya Wilson,Consumer,East,Pennsylvania,Furniture,Chairs,Ergonomic Chair,399,3,0.2,957.6,754.11,203.49,Credit Card,First Class,21.25
+ORD-00358,2024-07-04,C0093,Kavya Garcia,Consumer,Central,Texas,Technology,Accessories,USB-C Hub,59,3,0.15,150.45,79.65,70.8,UPI,Second Class,47.06
+ORD-00359,2025-05-21,C0085,Kavya Smith,Consumer,Central,Ohio,Office Supplies,Paper,Copy Paper,15,10,0.0,150.0,52.5,97.5,Bank Transfer,Second Class,65.0
+ORD-00360,2025-01-07,C0034,Sara Khan,Home Office,South,Georgia,Office Supplies,Storage,Storage Box,32,6,0.0,192.0,82.56,109.44,Debit Card,Standard Class,57.0
+ORD-00361,2024-12-17,C0090,Noah Garcia,Home Office,Central,Texas,Office Supplies,Paper,Notebook Set,22,7,0.15,130.9,61.6,69.3,Bank Transfer,Standard Class,52.94
+ORD-00362,2024-03-11,C0030,Sara Wilson,Corporate,West,Washington,Office Supplies,Paper,Notebook Set,22,5,0.1,99.0,44.0,55.0,Credit Card,Second Class,55.56
+ORD-00363,2025-03-16,C0107,Mia Wilson,Consumer,West,Oregon,Furniture,Tables,Study Desk,279,1,0.0,279.0,167.4,111.6,Bank Transfer,Same Day,40.0
+ORD-00364,2025-09-25,C0024,Sara Miller,Corporate,Central,Ohio,Technology,Computers,Laptop,1099,2,0.0,2198.0,1450.68,747.32,Debit Card,First Class,34.0
+ORD-00365,2025-03-20,C0161,Kavya Brown,Home Office,Central,Ohio,Furniture,Chairs,Office Chair,199,2,0.2,318.4,226.86,91.54,UPI,Second Class,28.75
+ORD-00366,2025-04-14,C0004,Noah Garcia,Home Office,Central,Ohio,Technology,Phones,Wireless Headset,129,3,0.1,348.3,189.63,158.67,Bank Transfer,First Class,45.56
+ORD-00367,2024-07-01,C0006,Liam Khan,Corporate,Central,Illinois,Office Supplies,Storage,Storage Box,32,9,0.0,288.0,123.84,164.16,Credit Card,Standard Class,57.0
+ORD-00368,2024-09-03,C0122,Sara Brown,Home Office,South,North Carolina,Office Supplies,Storage,Storage Box,32,5,0.0,160.0,68.8,91.2,UPI,Standard Class,57.0
+ORD-00369,2024-12-02,C0028,Ethan Sharma,Home Office,East,Massachusetts,Office Supplies,Writing,Pen Pack,12,11,0.0,132.0,39.6,92.4,Credit Card,Second Class,70.0
+ORD-00370,2024-09-26,C0007,Sara Khan,Consumer,West,Washington,Office Supplies,Storage,Filing Cabinet,189,1,0.15,160.65,115.29,45.36,Credit Card,First Class,28.24
+ORD-00371,2024-05-07,C0091,Liam Garcia,Corporate,West,California,Technology,Computers,Laptop,1099,4,0.2,3516.8,2901.36,615.44,Bank Transfer,Same Day,17.5
+ORD-00372,2025-12-27,C0145,Aarav Khan,Home Office,Central,Texas,Technology,Accessories,Laptop Sleeve,35,3,0.05,99.75,39.9,59.85,UPI,Second Class,60.0
+ORD-00373,2024-02-04,C0026,Kavya Johnson,Corporate,East,Massachusetts,Technology,Phones,Smartphone,699,4,0.0,2796.0,1509.84,1286.16,Debit Card,First Class,46.0
+ORD-00374,2025-04-28,C0038,Kavya Johnson,Consumer,West,Washington,Technology,Accessories,USB-C Hub,59,3,0.15,150.45,79.65,70.8,UPI,Same Day,47.06
+ORD-00375,2025-11-11,C0107,Mia Wilson,Consumer,Central,Illinois,Office Supplies,Writing,Pen Pack,12,9,0.2,86.4,32.4,54.0,Bank Transfer,Same Day,62.5
+ORD-00376,2025-06-12,C0034,Sara Khan,Home Office,Central,Texas,Office Supplies,Writing,Desk Organizer,28,8,0.0,224.0,91.84,132.16,Bank Transfer,Same Day,59.0
+ORD-00377,2025-04-04,C0121,Mia Johnson,Corporate,West,California,Technology,Accessories,USB-C Hub,59,1,0.05,56.05,26.55,29.5,Bank Transfer,Second Class,52.63
+ORD-00378,2025-09-13,C0063,Mia Patel,Consumer,West,Oregon,Furniture,Tables,Coffee Table,149,2,0.0,298.0,154.96,143.04,Credit Card,First Class,48.0
+ORD-00379,2024-07-30,C0062,Ananya Garcia,Consumer,West,Oregon,Technology,Computers,Monitor,249,4,0.0,996.0,577.68,418.32,UPI,Standard Class,42.0
+ORD-00380,2025-01-07,C0106,Sara Smith,Consumer,West,California,Office Supplies,Writing,Desk Organizer,28,2,0.0,56.0,22.96,33.04,Bank Transfer,Same Day,59.0
+ORD-00381,2024-02-26,C0024,Sara Miller,Corporate,Central,Texas,Furniture,Tables,Study Desk,279,5,0.05,1325.25,837.0,488.25,Credit Card,First Class,36.84
+ORD-00382,2025-04-18,C0128,Lucas Brown,Home Office,West,Oregon,Furniture,Tables,Study Desk,279,4,0.2,892.8,669.6,223.2,Credit Card,Same Day,25.0
+ORD-00383,2025-10-29,C0084,Noah Sharma,Corporate,Central,Ohio,Furniture,Chairs,Office Chair,199,2,0.15,338.3,226.86,111.44,UPI,First Class,32.94
+ORD-00384,2025-06-07,C0166,Mia Miller,Corporate,West,California,Furniture,Chairs,Ergonomic Chair,399,5,0.0,1995.0,1256.85,738.15,Debit Card,First Class,37.0
+ORD-00385,2024-05-15,C0127,Mia Khan,Corporate,East,Pennsylvania,Technology,Phones,Smartphone,699,1,0.0,699.0,377.46,321.54,Bank Transfer,Second Class,46.0
+ORD-00386,2024-01-18,C0083,Ananya Patel,Corporate,East,New York,Technology,Accessories,USB-C Hub,59,5,0.1,265.5,132.75,132.75,Debit Card,Second Class,50.0
+ORD-00387,2024-01-23,C0011,Kavya Sharma,Corporate,South,Georgia,Technology,Accessories,USB-C Hub,59,3,0.0,177.0,79.65,97.35,UPI,Second Class,55.0
+ORD-00388,2025-03-07,C0020,Aarav Davis,Consumer,South,Florida,Office Supplies,Storage,Filing Cabinet,189,5,0.1,850.5,576.45,274.05,Debit Card,First Class,32.22
+ORD-00389,2024-02-19,C0103,Lucas Wilson,Consumer,South,Georgia,Furniture,Tables,Study Desk,279,5,0.15,1185.75,837.0,348.75,Credit Card,First Class,29.41
+ORD-00390,2025-10-09,C0031,Sara Miller,Home Office,East,Massachusetts,Technology,Accessories,USB-C Hub,59,2,0.2,94.4,53.1,41.3,Credit Card,Second Class,43.75
+ORD-00391,2025-09-10,C0178,Isha Khan,Corporate,East,New York,Technology,Accessories,Laptop Sleeve,35,1,0.2,28.0,13.3,14.7,Credit Card,Standard Class,52.5
+ORD-00392,2024-11-13,C0001,Liam Sharma,Home Office,East,New York,Office Supplies,Storage,Storage Box,32,5,0.15,136.0,68.8,67.2,Bank Transfer,Second Class,49.41
+ORD-00393,2024-01-24,C0174,Kavya Wilson,Corporate,West,Washington,Technology,Phones,Wireless Headset,129,4,0.0,516.0,252.84,263.16,UPI,Standard Class,51.0
+ORD-00394,2024-03-17,C0141,Lucas Johnson,Consumer,South,Georgia,Technology,Phones,Wireless Headset,129,3,0.2,309.6,189.63,119.97,UPI,Same Day,38.75
+ORD-00395,2025-06-07,C0050,Mia Miller,Corporate,Central,Ohio,Office Supplies,Storage,Filing Cabinet,189,9,0.0,1701.0,1037.61,663.39,UPI,Standard Class,39.0
+ORD-00396,2024-04-18,C0003,Liam Johnson,Corporate,West,California,Office Supplies,Paper,Copy Paper,15,4,0.15,51.0,21.0,30.0,Bank Transfer,First Class,58.82
+ORD-00397,2025-02-25,C0009,Isha Johnson,Home Office,East,New York,Furniture,Tables,Study Desk,279,2,0.2,446.4,334.8,111.6,Debit Card,Standard Class,25.0
+ORD-00398,2025-07-05,C0139,Isha Wilson,Home Office,West,Washington,Technology,Accessories,Laptop Sleeve,35,4,0.0,140.0,53.2,86.8,UPI,Same Day,62.0
+ORD-00399,2024-09-29,C0039,Noah Johnson,Corporate,South,Georgia,Technology,Accessories,USB-C Hub,59,1,0.1,53.1,26.55,26.55,UPI,First Class,50.0
+ORD-00400,2024-03-14,C0042,Lucas Wilson,Corporate,East,New York,Office Supplies,Writing,Pen Pack,12,5,0.15,51.0,18.0,33.0,UPI,Same Day,64.71
+ORD-00401,2024-10-07,C0155,Mia Smith,Consumer,East,Pennsylvania,Technology,Computers,Laptop,1099,4,0.0,4396.0,2901.36,1494.64,Bank Transfer,Same Day,34.0
+ORD-00402,2025-03-14,C0080,Aarav Wilson,Consumer,East,Pennsylvania,Furniture,Tables,Study Desk,279,3,0.0,837.0,502.2,334.8,UPI,Same Day,40.0
+ORD-00403,2025-05-13,C0004,Noah Garcia,Home Office,South,Florida,Furniture,Tables,Study Desk,279,2,0.05,530.1,334.8,195.3,Credit Card,Second Class,36.84
+ORD-00404,2025-01-18,C0022,Isha Smith,Home Office,West,Oregon,Furniture,Tables,Study Desk,279,4,0.0,1116.0,669.6,446.4,Debit Card,First Class,40.0
+ORD-00405,2024-12-14,C0165,Sara Wilson,Consumer,East,Massachusetts,Furniture,Chairs,Ergonomic Chair,399,4,0.0,1596.0,1005.48,590.52,Credit Card,Standard Class,37.0
+ORD-00406,2024-05-25,C0101,Ananya Wilson,Consumer,Central,Texas,Office Supplies,Paper,Notebook Set,22,2,0.05,41.8,17.6,24.2,Debit Card,Second Class,57.89
+ORD-00407,2025-06-06,C0036,Sara Garcia,Home Office,East,Pennsylvania,Technology,Accessories,USB-C Hub,59,3,0.2,141.6,79.65,61.95,Credit Card,Standard Class,43.75
+ORD-00408,2025-10-18,C0030,Sara Wilson,Corporate,Central,Texas,Technology,Computers,Monitor,249,3,0.1,672.3,433.26,239.04,Debit Card,First Class,35.56
+ORD-00409,2025-10-28,C0030,Sara Wilson,Corporate,West,Oregon,Office Supplies,Storage,Storage Box,32,1,0.2,25.6,13.76,11.84,Credit Card,Second Class,46.25
+ORD-00410,2024-05-08,C0140,Aarav Sharma,Consumer,South,North Carolina,Furniture,Tables,Coffee Table,149,3,0.0,447.0,232.44,214.56,Credit Card,First Class,48.0
+ORD-00411,2024-04-24,C0003,Liam Johnson,Corporate,West,Washington,Office Supplies,Paper,Copy Paper,15,11,0.15,140.25,57.75,82.5,Debit Card,Standard Class,58.82
+ORD-00412,2024-01-03,C0168,Aarav Patel,Consumer,West,California,Technology,Phones,Wireless Headset,129,1,0.0,129.0,63.21,65.79,Debit Card,Same Day,51.0
+ORD-00413,2025-04-15,C0056,Liam Brown,Consumer,Central,Illinois,Furniture,Chairs,Ergonomic Chair,399,1,0.0,399.0,251.37,147.63,Bank Transfer,Standard Class,37.0
+ORD-00414,2024-12-29,C0103,Lucas Wilson,Consumer,East,Pennsylvania,Office Supplies,Storage,Filing Cabinet,189,5,0.0,945.0,576.45,368.55,UPI,Second Class,39.0
+ORD-00415,2024-08-12,C0135,Aarav Davis,Corporate,East,Massachusetts,Technology,Phones,Smartphone,699,3,0.15,1782.45,1132.38,650.07,Bank Transfer,Second Class,36.47
+ORD-00416,2025-04-08,C0097,Aarav Garcia,Home Office,East,Massachusetts,Technology,Computers,Monitor,249,1,0.0,249.0,144.42,104.58,UPI,First Class,42.0
+ORD-00417,2024-12-13,C0149,Ananya Miller,Consumer,West,Oregon,Furniture,Tables,Study Desk,279,1,0.2,223.2,167.4,55.8,Credit Card,First Class,25.0
+ORD-00418,2025-09-05,C0109,Ananya Sharma,Consumer,East,New York,Office Supplies,Paper,Copy Paper,15,8,0.2,96.0,42.0,54.0,UPI,Standard Class,56.25
+ORD-00419,2024-05-12,C0091,Liam Garcia,Corporate,South,North Carolina,Office Supplies,Writing,Pen Pack,12,10,0.15,102.0,36.0,66.0,UPI,Same Day,64.71
+ORD-00420,2024-04-06,C0079,Noah Sharma,Consumer,East,New York,Office Supplies,Storage,Storage Box,32,4,0.15,108.8,55.04,53.76,UPI,First Class,49.41
+ORD-00421,2024-06-01,C0028,Ethan Sharma,Home Office,Central,Illinois,Office Supplies,Paper,Copy Paper,15,2,0.15,25.5,10.5,15.0,Debit Card,Second Class,58.82
+ORD-00422,2024-09-14,C0139,Isha Wilson,Home Office,West,Washington,Office Supplies,Storage,Storage Box,32,4,0.0,128.0,55.04,72.96,Bank Transfer,Second Class,57.0
+ORD-00423,2025-01-05,C0156,Ethan Davis,Home Office,East,New York,Furniture,Tables,Study Desk,279,4,0.05,1060.2,669.6,390.6,Debit Card,First Class,36.84
+ORD-00424,2024-06-11,C0175,Noah Garcia,Consumer,South,Georgia,Office Supplies,Storage,Storage Box,32,7,0.0,224.0,96.32,127.68,Credit Card,Same Day,57.0
+ORD-00425,2024-10-20,C0141,Lucas Johnson,Consumer,Central,Ohio,Technology,Computers,Monitor,249,1,0.0,249.0,144.42,104.58,Debit Card,Standard Class,42.0
+ORD-00426,2024-11-11,C0060,Aarav Davis,Corporate,East,Massachusetts,Furniture,Chairs,Ergonomic Chair,399,3,0.15,1017.45,754.11,263.34,UPI,Same Day,25.88
+ORD-00427,2025-03-08,C0122,Sara Brown,Home Office,East,Massachusetts,Furniture,Chairs,Ergonomic Chair,399,4,0.15,1356.6,1005.48,351.12,Credit Card,Standard Class,25.88
+ORD-00428,2025-09-16,C0041,Kavya Davis,Home Office,South,North Carolina,Office Supplies,Storage,Storage Box,32,9,0.0,288.0,123.84,164.16,UPI,Standard Class,57.0
+ORD-00429,2024-09-28,C0060,Aarav Davis,Corporate,South,North Carolina,Technology,Computers,Monitor,249,5,0.2,996.0,722.1,273.9,Bank Transfer,Standard Class,27.5
+ORD-00430,2024-07-31,C0152,Ananya Smith,Consumer,East,New York,Technology,Computers,Monitor,249,1,0.2,199.2,144.42,54.78,UPI,Second Class,27.5
+ORD-00431,2024-09-21,C0115,Aarav Sharma,Consumer,South,Georgia,Furniture,Chairs,Ergonomic Chair,399,2,0.2,638.4,502.74,135.66,Bank Transfer,Second Class,21.25
+ORD-00432,2025-12-11,C0177,Isha Khan,Home Office,West,Oregon,Office Supplies,Storage,Filing Cabinet,189,4,0.0,756.0,461.16,294.84,UPI,First Class,39.0
+ORD-00433,2024-08-28,C0152,Ananya Smith,Consumer,East,Pennsylvania,Technology,Phones,Wireless Headset,129,3,0.0,387.0,189.63,197.37,UPI,Second Class,51.0
+ORD-00434,2024-11-16,C0159,Mia Wilson,Corporate,South,North Carolina,Technology,Accessories,USB-C Hub,59,4,0.0,236.0,106.2,129.8,Credit Card,Same Day,55.0
+ORD-00435,2024-02-21,C0112,Ethan Patel,Corporate,East,Pennsylvania,Technology,Computers,Laptop,1099,3,0.05,3132.15,2176.02,956.13,Credit Card,Same Day,30.53
+ORD-00436,2024-12-03,C0167,Lucas Miller,Consumer,South,Florida,Furniture,Tables,Study Desk,279,3,0.15,711.45,502.2,209.25,Credit Card,Second Class,29.41
+ORD-00437,2025-07-25,C0145,Aarav Khan,Home Office,Central,Illinois,Office Supplies,Paper,Notebook Set,22,5,0.0,110.0,44.0,66.0,UPI,Second Class,60.0
+ORD-00438,2024-10-02,C0131,Kavya Sharma,Consumer,South,North Carolina,Furniture,Tables,Study Desk,279,1,0.15,237.15,167.4,69.75,Bank Transfer,Standard Class,29.41
+ORD-00439,2024-11-17,C0140,Aarav Sharma,Consumer,Central,Texas,Furniture,Tables,Coffee Table,149,3,0.2,357.6,232.44,125.16,Debit Card,Same Day,35.0
+ORD-00440,2025-05-18,C0061,Ethan Brown,Consumer,East,Pennsylvania,Office Supplies,Writing,Desk Organizer,28,11,0.0,308.0,126.28,181.72,Debit Card,Second Class,59.0
+ORD-00441,2025-03-26,C0119,Kavya Khan,Consumer,East,Massachusetts,Office Supplies,Paper,Copy Paper,15,3,0.0,45.0,15.75,29.25,UPI,Same Day,65.0
+ORD-00442,2024-03-16,C0075,Noah Johnson,Corporate,West,Washington,Technology,Computers,Laptop,1099,4,0.0,4396.0,2901.36,1494.64,Credit Card,First Class,34.0
+ORD-00443,2024-07-09,C0161,Kavya Brown,Home Office,East,New York,Technology,Computers,Laptop,1099,3,0.2,2637.6,2176.02,461.58,Bank Transfer,Same Day,17.5
+ORD-00444,2024-09-13,C0170,Mia Patel,Home Office,South,Georgia,Office Supplies,Writing,Desk Organizer,28,2,0.05,53.2,22.96,30.24,Debit Card,Standard Class,56.84
+ORD-00445,2024-12-11,C0158,Noah Smith,Consumer,West,California,Technology,Phones,Smartphone,699,2,0.0,1398.0,754.92,643.08,Debit Card,Second Class,46.0
+ORD-00446,2024-06-23,C0003,Liam Johnson,Corporate,South,Florida,Furniture,Tables,Coffee Table,149,5,0.15,633.25,387.4,245.85,Bank Transfer,Standard Class,38.82
+ORD-00447,2025-06-09,C0116,Ananya Garcia,Home Office,Central,Ohio,Technology,Computers,Monitor,249,1,0.1,224.1,144.42,79.68,Bank Transfer,Standard Class,35.56
+ORD-00448,2025-03-10,C0125,Sara Brown,Consumer,East,Pennsylvania,Furniture,Chairs,Ergonomic Chair,399,5,0.0,1995.0,1256.85,738.15,Bank Transfer,First Class,37.0
+ORD-00449,2024-08-20,C0133,Kavya Smith,Corporate,Central,Texas,Furniture,Chairs,Office Chair,199,1,0.2,159.2,113.43,45.77,Credit Card,Second Class,28.75
+ORD-00450,2025-09-25,C0156,Ethan Davis,Home Office,West,Washington,Furniture,Tables,Study Desk,279,1,0.0,279.0,167.4,111.6,UPI,First Class,40.0
+ORD-00451,2025-11-16,C0102,Lucas Smith,Consumer,South,North Carolina,Office Supplies,Storage,Filing Cabinet,189,11,0.2,1663.2,1268.19,395.01,UPI,Standard Class,23.75
+ORD-00452,2025-03-11,C0096,Noah Khan,Corporate,South,North Carolina,Office Supplies,Writing,Desk Organizer,28,5,0.0,140.0,57.4,82.6,UPI,First Class,59.0
+ORD-00453,2024-09-24,C0088,Noah Miller,Corporate,West,Washington,Office Supplies,Writing,Desk Organizer,28,7,0.05,186.2,80.36,105.84,UPI,Second Class,56.84
+ORD-00454,2024-10-23,C0031,Sara Miller,Home Office,West,Oregon,Office Supplies,Paper,Copy Paper,15,10,0.2,120.0,52.5,67.5,Debit Card,Second Class,56.25
+ORD-00455,2025-02-02,C0167,Lucas Miller,Consumer,West,California,Technology,Computers,Laptop,1099,4,0.0,4396.0,2901.36,1494.64,Bank Transfer,Standard Class,34.0
+ORD-00456,2024-02-10,C0103,Lucas Wilson,Consumer,Central,Illinois,Office Supplies,Storage,Storage Box,32,5,0.0,160.0,68.8,91.2,UPI,Same Day,57.0
+ORD-00457,2025-06-03,C0092,Ethan Patel,Corporate,South,North Carolina,Technology,Accessories,USB-C Hub,59,3,0.0,177.0,79.65,97.35,Bank Transfer,Same Day,55.0
+ORD-00458,2024-03-15,C0053,Kavya Sharma,Home Office,Central,Illinois,Furniture,Chairs,Ergonomic Chair,399,4,0.0,1596.0,1005.48,590.52,Debit Card,Same Day,37.0
+ORD-00459,2024-06-24,C0166,Mia Miller,Corporate,Central,Illinois,Office Supplies,Storage,Filing Cabinet,189,11,0.0,2079.0,1268.19,810.81,Bank Transfer,First Class,39.0
+ORD-00460,2024-08-29,C0025,Noah Khan,Home Office,Central,Illinois,Office Supplies,Writing,Pen Pack,12,1,0.0,12.0,3.6,8.4,UPI,Same Day,70.0
+ORD-00461,2024-09-03,C0105,Isha Khan,Home Office,Central,Texas,Technology,Accessories,USB-C Hub,59,4,0.2,188.8,106.2,82.6,Bank Transfer,Second Class,43.75
+ORD-00462,2025-11-29,C0091,Liam Garcia,Corporate,South,Georgia,Office Supplies,Storage,Filing Cabinet,189,1,0.2,151.2,115.29,35.91,UPI,Second Class,23.75
+ORD-00463,2025-04-20,C0139,Isha Wilson,Home Office,South,Georgia,Furniture,Chairs,Ergonomic Chair,399,4,0.05,1516.2,1005.48,510.72,Debit Card,First Class,33.68
+ORD-00464,2024-03-29,C0112,Ethan Patel,Corporate,South,North Carolina,Technology,Computers,Laptop,1099,3,0.15,2802.45,2176.02,626.43,Debit Card,Standard Class,22.35
+ORD-00465,2024-10-13,C0089,Kavya Garcia,Corporate,Central,Ohio,Office Supplies,Writing,Desk Organizer,28,3,0.0,84.0,34.44,49.56,Credit Card,First Class,59.0
+ORD-00466,2024-05-09,C0013,Noah Miller,Home Office,West,California,Technology,Accessories,Laptop Sleeve,35,5,0.2,140.0,66.5,73.5,Credit Card,Same Day,52.5
+ORD-00467,2025-12-17,C0118,Ananya Wilson,Consumer,South,Georgia,Office Supplies,Writing,Desk Organizer,28,3,0.15,71.4,34.44,36.96,Bank Transfer,Second Class,51.76
+ORD-00468,2025-11-27,C0020,Aarav Davis,Consumer,South,Florida,Office Supplies,Storage,Filing Cabinet,189,5,0.05,897.75,576.45,321.3,UPI,First Class,35.79
+ORD-00469,2025-09-07,C0093,Kavya Garcia,Consumer,Central,Ohio,Furniture,Chairs,Office Chair,199,3,0.0,597.0,340.29,256.71,UPI,Same Day,43.0
+ORD-00470,2024-12-19,C0003,Liam Johnson,Corporate,East,New York,Technology,Phones,Wireless Headset,129,4,0.0,516.0,252.84,263.16,Debit Card,First Class,51.0
+ORD-00471,2024-06-17,C0106,Sara Smith,Consumer,West,Washington,Furniture,Tables,Coffee Table,149,1,0.1,134.1,77.48,56.62,Bank Transfer,First Class,42.22
+ORD-00472,2025-10-04,C0039,Noah Johnson,Corporate,Central,Texas,Technology,Computers,Monitor,249,5,0.0,1245.0,722.1,522.9,Credit Card,Standard Class,42.0
+ORD-00473,2025-11-17,C0087,Sara Miller,Consumer,West,Washington,Office Supplies,Storage,Storage Box,32,4,0.0,128.0,55.04,72.96,Credit Card,Standard Class,57.0
+ORD-00474,2025-08-25,C0151,Isha Patel,Corporate,East,Pennsylvania,Technology,Accessories,USB-C Hub,59,4,0.0,236.0,106.2,129.8,Credit Card,Same Day,55.0
+ORD-00475,2025-12-27,C0121,Mia Johnson,Corporate,South,Georgia,Office Supplies,Writing,Desk Organizer,28,3,0.0,84.0,34.44,49.56,Bank Transfer,Standard Class,59.0
+ORD-00476,2024-04-02,C0119,Kavya Khan,Consumer,Central,Texas,Office Supplies,Paper,Copy Paper,15,6,0.1,81.0,31.5,49.5,Credit Card,First Class,61.11
+ORD-00477,2024-03-15,C0099,Noah Patel,Home Office,West,Oregon,Office Supplies,Paper,Copy Paper,15,6,0.0,90.0,31.5,58.5,Debit Card,Standard Class,65.0
+ORD-00478,2024-09-27,C0006,Liam Khan,Corporate,South,North Carolina,Furniture,Chairs,Office Chair,199,1,0.0,199.0,113.43,85.57,Debit Card,Standard Class,43.0
+ORD-00479,2024-03-07,C0059,Isha Wilson,Home Office,East,Massachusetts,Office Supplies,Writing,Pen Pack,12,9,0.0,108.0,32.4,75.6,Debit Card,First Class,70.0
+ORD-00480,2025-03-29,C0064,Aarav Miller,Home Office,West,California,Furniture,Tables,Study Desk,279,3,0.05,795.15,502.2,292.95,Credit Card,First Class,36.84
+ORD-00481,2024-04-04,C0148,Ananya Patel,Consumer,East,New York,Office Supplies,Writing,Desk Organizer,28,3,0.05,79.8,34.44,45.36,Credit Card,Same Day,56.84
+ORD-00482,2025-08-21,C0054,Liam Davis,Consumer,Central,Texas,Office Supplies,Paper,Copy Paper,15,4,0.0,60.0,21.0,39.0,UPI,Same Day,65.0
+ORD-00483,2025-02-21,C0074,Mia Sharma,Corporate,East,New York,Office Supplies,Writing,Pen Pack,12,2,0.1,21.6,7.2,14.4,Debit Card,First Class,66.67
+ORD-00484,2025-03-20,C0037,Lucas Smith,Corporate,East,New York,Technology,Accessories,Laptop Sleeve,35,4,0.0,140.0,53.2,86.8,Bank Transfer,Standard Class,62.0
+ORD-00485,2025-09-23,C0075,Noah Johnson,Corporate,West,California,Technology,Accessories,Laptop Sleeve,35,4,0.15,119.0,53.2,65.8,Bank Transfer,Same Day,55.29
+ORD-00486,2024-10-02,C0116,Ananya Garcia,Home Office,South,North Carolina,Furniture,Tables,Coffee Table,149,3,0.0,447.0,232.44,214.56,Debit Card,Second Class,48.0
+ORD-00487,2025-09-09,C0067,Mia Davis,Consumer,Central,Texas,Office Supplies,Writing,Desk Organizer,28,12,0.2,268.8,137.76,131.04,Bank Transfer,Standard Class,48.75
+ORD-00488,2025-08-21,C0154,Mia Johnson,Consumer,Central,Ohio,Office Supplies,Paper,Copy Paper,15,4,0.15,51.0,21.0,30.0,UPI,First Class,58.82
+ORD-00489,2025-06-12,C0131,Kavya Sharma,Consumer,East,Massachusetts,Furniture,Chairs,Ergonomic Chair,399,2,0.05,758.1,502.74,255.36,Credit Card,First Class,33.68
+ORD-00490,2025-12-11,C0151,Isha Patel,Corporate,East,Pennsylvania,Technology,Accessories,Laptop Sleeve,35,2,0.0,70.0,26.6,43.4,Debit Card,Standard Class,62.0
+ORD-00491,2025-11-18,C0141,Lucas Johnson,Consumer,Central,Illinois,Office Supplies,Storage,Storage Box,32,7,0.0,224.0,96.32,127.68,Bank Transfer,Second Class,57.0
+ORD-00492,2025-10-05,C0174,Kavya Wilson,Corporate,Central,Texas,Furniture,Chairs,Ergonomic Chair,399,1,0.1,359.1,251.37,107.73,Credit Card,Second Class,30.0
+ORD-00493,2025-06-01,C0161,Kavya Brown,Home Office,South,Georgia,Office Supplies,Writing,Pen Pack,12,2,0.05,22.8,7.2,15.6,Bank Transfer,Second Class,68.42
+ORD-00494,2025-01-29,C0173,Liam Khan,Corporate,South,North Carolina,Office Supplies,Writing,Desk Organizer,28,4,0.1,100.8,45.92,54.88,Debit Card,Standard Class,54.44
+ORD-00495,2024-05-18,C0177,Isha Khan,Home Office,East,Pennsylvania,Technology,Accessories,Laptop Sleeve,35,2,0.2,56.0,26.6,29.4,UPI,Same Day,52.5
+ORD-00496,2025-11-05,C0164,Isha Brown,Home Office,West,Washington,Furniture,Chairs,Office Chair,199,3,0.0,597.0,340.29,256.71,Credit Card,Same Day,43.0
+ORD-00497,2025-08-14,C0127,Mia Khan,Corporate,East,Pennsylvania,Technology,Accessories,USB-C Hub,59,3,0.15,150.45,79.65,70.8,Credit Card,Standard Class,47.06
+ORD-00498,2024-11-20,C0166,Mia Miller,Corporate,Central,Ohio,Technology,Computers,Monitor,249,4,0.1,896.4,577.68,318.72,Debit Card,Same Day,35.56
+ORD-00499,2025-08-20,C0111,Ethan Miller,Home Office,East,Pennsylvania,Office Supplies,Paper,Notebook Set,22,6,0.15,112.2,52.8,59.4,Bank Transfer,Same Day,52.94
+ORD-00500,2025-03-14,C0162,Aarav Johnson,Home Office,East,New York,Office Supplies,Storage,Filing Cabinet,189,6,0.05,1077.3,691.74,385.56,Debit Card,Second Class,35.79
+ORD-00501,2025-11-08,C0094,Sara Smith,Corporate,West,Washington,Office Supplies,Writing,Desk Organizer,28,9,0.0,252.0,103.32,148.68,Bank Transfer,Second Class,59.0
+ORD-00502,2024-10-10,C0037,Lucas Smith,Corporate,West,California,Technology,Phones,Wireless Headset,129,4,0.2,412.8,252.84,159.96,Debit Card,Second Class,38.75
+ORD-00503,2024-06-18,C0052,Mia Sharma,Consumer,West,California,Furniture,Chairs,Office Chair,199,5,0.0,995.0,567.15,427.85,Credit Card,Second Class,43.0
+ORD-00504,2025-11-29,C0163,Aarav Patel,Corporate,West,California,Technology,Phones,Wireless Headset,129,1,0.0,129.0,63.21,65.79,UPI,Second Class,51.0
+ORD-00505,2025-06-04,C0174,Kavya Wilson,Corporate,East,Massachusetts,Technology,Computers,Monitor,249,3,0.0,747.0,433.26,313.74,Debit Card,Standard Class,42.0
+ORD-00506,2024-09-19,C0058,Sara Miller,Consumer,East,Pennsylvania,Technology,Computers,Monitor,249,4,0.0,996.0,577.68,418.32,Credit Card,Same Day,42.0
+ORD-00507,2024-01-12,C0125,Sara Brown,Consumer,East,New York,Office Supplies,Writing,Desk Organizer,28,5,0.05,133.0,57.4,75.6,Bank Transfer,First Class,56.84
+ORD-00508,2025-09-18,C0171,Lucas Brown,Home Office,West,Washington,Furniture,Tables,Study Desk,279,1,0.05,265.05,167.4,97.65,Credit Card,Second Class,36.84
+ORD-00509,2025-12-05,C0056,Liam Brown,Consumer,West,Washington,Technology,Accessories,USB-C Hub,59,3,0.1,159.3,79.65,79.65,Bank Transfer,Second Class,50.0
+ORD-00510,2024-12-06,C0103,Lucas Wilson,Consumer,Central,Texas,Furniture,Chairs,Ergonomic Chair,399,1,0.1,359.1,251.37,107.73,UPI,Standard Class,30.0
+ORD-00511,2025-10-06,C0153,Aarav Miller,Corporate,East,New York,Office Supplies,Storage,Storage Box,32,1,0.0,32.0,13.76,18.24,Debit Card,Standard Class,57.0
+ORD-00512,2025-11-14,C0104,Lucas Garcia,Corporate,South,Florida,Furniture,Tables,Study Desk,279,4,0.05,1060.2,669.6,390.6,UPI,Standard Class,36.84
+ORD-00513,2024-12-06,C0176,Ananya Smith,Corporate,Central,Texas,Office Supplies,Storage,Storage Box,32,1,0.05,30.4,13.76,16.64,Debit Card,Same Day,54.74
+ORD-00514,2025-06-19,C0032,Aarav Khan,Home Office,West,Oregon,Office Supplies,Storage,Storage Box,32,11,0.1,316.8,151.36,165.44,Bank Transfer,Same Day,52.22
+ORD-00515,2024-03-30,C0065,Kavya Sharma,Consumer,South,Florida,Office Supplies,Storage,Filing Cabinet,189,7,0.0,1323.0,807.03,515.97,Credit Card,Standard Class,39.0
+ORD-00516,2024-06-29,C0108,Kavya Miller,Corporate,West,Washington,Office Supplies,Writing,Pen Pack,12,2,0.0,24.0,7.2,16.8,Debit Card,Same Day,70.0
+ORD-00517,2024-11-02,C0097,Aarav Garcia,Home Office,West,Washington,Technology,Phones,Smartphone,699,5,0.0,3495.0,1887.3,1607.7,Debit Card,First Class,46.0
+ORD-00518,2024-05-04,C0170,Mia Patel,Home Office,South,North Carolina,Office Supplies,Paper,Copy Paper,15,8,0.0,120.0,42.0,78.0,Credit Card,Same Day,65.0
+ORD-00519,2024-08-10,C0145,Aarav Khan,Home Office,East,New York,Technology,Phones,Wireless Headset,129,1,0.0,129.0,63.21,65.79,Debit Card,Second Class,51.0
+ORD-00520,2024-03-14,C0083,Ananya Patel,Corporate,West,Washington,Technology,Phones,Wireless Headset,129,5,0.1,580.5,316.05,264.45,UPI,First Class,45.56
+ORD-00521,2025-09-09,C0005,Noah Patel,Consumer,South,Georgia,Technology,Accessories,USB-C Hub,59,3,0.1,159.3,79.65,79.65,Credit Card,Second Class,50.0
+ORD-00522,2025-06-13,C0152,Ananya Smith,Consumer,Central,Texas,Technology,Computers,Laptop,1099,4,0.15,3736.6,2901.36,835.24,UPI,Second Class,22.35
+ORD-00523,2024-06-19,C0122,Sara Brown,Home Office,Central,Illinois,Technology,Computers,Laptop,1099,3,0.0,3297.0,2176.02,1120.98,Bank Transfer,Second Class,34.0
+ORD-00524,2025-07-06,C0133,Kavya Smith,Corporate,Central,Ohio,Technology,Accessories,USB-C Hub,59,1,0.05,56.05,26.55,29.5,Credit Card,Second Class,52.63
+ORD-00525,2025-03-21,C0113,Ananya Davis,Corporate,East,Massachusetts,Office Supplies,Paper,Copy Paper,15,9,0.05,128.25,47.25,81.0,Credit Card,Same Day,63.16
+ORD-00526,2025-10-23,C0071,Lucas Sharma,Corporate,Central,Texas,Furniture,Tables,Coffee Table,149,4,0.05,566.2,309.92,256.28,UPI,Second Class,45.26
+ORD-00527,2024-11-20,C0096,Noah Khan,Corporate,South,Georgia,Technology,Accessories,Laptop Sleeve,35,5,0.1,157.5,66.5,91.0,Debit Card,Same Day,57.78
+ORD-00528,2025-11-27,C0125,Sara Brown,Consumer,East,Massachusetts,Office Supplies,Paper,Copy Paper,15,12,0.2,144.0,63.0,81.0,Bank Transfer,Same Day,56.25
+ORD-00529,2025-12-01,C0159,Mia Wilson,Corporate,West,California,Technology,Computers,Monitor,249,1,0.0,249.0,144.42,104.58,Credit Card,First Class,42.0
+ORD-00530,2024-05-19,C0097,Aarav Garcia,Home Office,East,Massachusetts,Office Supplies,Writing,Desk Organizer,28,2,0.2,44.8,22.96,21.84,Debit Card,Standard Class,48.75
+ORD-00531,2025-07-03,C0025,Noah Khan,Home Office,Central,Illinois,Technology,Computers,Laptop,1099,2,0.0,2198.0,1450.68,747.32,Debit Card,Standard Class,34.0
+ORD-00532,2024-12-01,C0154,Mia Johnson,Consumer,West,Oregon,Furniture,Chairs,Ergonomic Chair,399,1,0.1,359.1,251.37,107.73,Debit Card,Second Class,30.0
+ORD-00533,2025-05-23,C0013,Noah Miller,Home Office,East,Massachusetts,Office Supplies,Paper,Copy Paper,15,10,0.05,142.5,52.5,90.0,UPI,First Class,63.16
+ORD-00534,2025-01-28,C0091,Liam Garcia,Corporate,East,New York,Furniture,Tables,Study Desk,279,3,0.2,669.6,502.2,167.4,Bank Transfer,First Class,25.0
+ORD-00535,2025-03-13,C0165,Sara Wilson,Consumer,West,Washington,Technology,Computers,Laptop,1099,3,0.0,3297.0,2176.02,1120.98,UPI,Second Class,34.0
+ORD-00536,2024-03-20,C0014,Isha Smith,Consumer,South,Florida,Furniture,Tables,Coffee Table,149,3,0.1,402.3,232.44,169.86,Credit Card,Standard Class,42.22
+ORD-00537,2024-10-27,C0082,Sara Johnson,Corporate,Central,Ohio,Furniture,Tables,Study Desk,279,5,0.0,1395.0,837.0,558.0,Credit Card,Same Day,40.0
+ORD-00538,2025-02-07,C0151,Isha Patel,Corporate,West,Oregon,Furniture,Tables,Study Desk,279,4,0.0,1116.0,669.6,446.4,UPI,Standard Class,40.0
+ORD-00539,2024-07-01,C0170,Mia Patel,Home Office,South,Florida,Furniture,Tables,Coffee Table,149,4,0.0,596.0,309.92,286.08,Bank Transfer,Standard Class,48.0
+ORD-00540,2024-01-19,C0093,Kavya Garcia,Consumer,Central,Ohio,Office Supplies,Writing,Pen Pack,12,12,0.1,129.6,43.2,86.4,UPI,First Class,66.67
+ORD-00541,2024-10-02,C0071,Lucas Sharma,Corporate,East,Pennsylvania,Furniture,Chairs,Ergonomic Chair,399,4,0.15,1356.6,1005.48,351.12,Credit Card,Same Day,25.88
+ORD-00542,2024-05-12,C0093,Kavya Garcia,Consumer,South,Georgia,Technology,Phones,Smartphone,699,4,0.05,2656.2,1509.84,1146.36,Credit Card,Same Day,43.16
+ORD-00543,2024-02-17,C0032,Aarav Khan,Home Office,West,Washington,Furniture,Tables,Coffee Table,149,3,0.1,402.3,232.44,169.86,Debit Card,Standard Class,42.22
+ORD-00544,2025-12-09,C0088,Noah Miller,Corporate,South,North Carolina,Office Supplies,Writing,Desk Organizer,28,4,0.0,112.0,45.92,66.08,Bank Transfer,Same Day,59.0
+ORD-00545,2024-01-19,C0113,Ananya Davis,Corporate,East,New York,Technology,Computers,Laptop,1099,5,0.2,4396.0,3626.7,769.3,UPI,First Class,17.5
+ORD-00546,2025-12-14,C0174,Kavya Wilson,Corporate,Central,Texas,Office Supplies,Storage,Storage Box,32,2,0.2,51.2,27.52,23.68,UPI,Standard Class,46.25
+ORD-00547,2024-10-14,C0156,Ethan Davis,Home Office,West,California,Technology,Phones,Smartphone,699,3,0.1,1887.3,1132.38,754.92,Bank Transfer,First Class,40.0
+ORD-00548,2024-02-03,C0033,Liam Patel,Consumer,South,Florida,Technology,Phones,Wireless Headset,129,3,0.2,309.6,189.63,119.97,Bank Transfer,Second Class,38.75
+ORD-00549,2024-04-08,C0042,Lucas Wilson,Corporate,South,North Carolina,Office Supplies,Storage,Filing Cabinet,189,8,0.05,1436.4,922.32,514.08,Debit Card,Same Day,35.79
+ORD-00550,2024-07-20,C0046,Isha Khan,Home Office,Central,Ohio,Technology,Accessories,USB-C Hub,59,5,0.0,295.0,132.75,162.25,Debit Card,Second Class,55.0
+ORD-00551,2025-09-06,C0038,Kavya Johnson,Consumer,West,Oregon,Technology,Phones,Wireless Headset,129,4,0.0,516.0,252.84,263.16,Debit Card,Second Class,51.0
+ORD-00552,2024-05-20,C0108,Kavya Miller,Corporate,East,Massachusetts,Office Supplies,Storage,Storage Box,32,11,0.2,281.6,151.36,130.24,Debit Card,First Class,46.25
+ORD-00553,2024-03-27,C0005,Noah Patel,Consumer,Central,Ohio,Technology,Computers,Laptop,1099,1,0.2,879.2,725.34,153.86,Debit Card,Second Class,17.5
+ORD-00554,2025-09-29,C0161,Kavya Brown,Home Office,East,New York,Office Supplies,Writing,Pen Pack,12,1,0.0,12.0,3.6,8.4,Credit Card,Same Day,70.0
+ORD-00555,2025-11-07,C0119,Kavya Khan,Consumer,West,Washington,Furniture,Chairs,Office Chair,199,4,0.0,796.0,453.72,342.28,Bank Transfer,Second Class,43.0
+ORD-00556,2024-05-02,C0058,Sara Miller,Consumer,West,Washington,Furniture,Tables,Coffee Table,149,5,0.0,745.0,387.4,357.6,UPI,First Class,48.0
+ORD-00557,2024-02-10,C0075,Noah Johnson,Corporate,Central,Texas,Office Supplies,Writing,Desk Organizer,28,1,0.1,25.2,11.48,13.72,Credit Card,Second Class,54.44
+ORD-00558,2025-12-28,C0164,Isha Brown,Home Office,West,Oregon,Furniture,Tables,Study Desk,279,3,0.0,837.0,502.2,334.8,Debit Card,Standard Class,40.0
+ORD-00559,2024-10-17,C0101,Ananya Wilson,Consumer,Central,Ohio,Furniture,Tables,Coffee Table,149,5,0.05,707.75,387.4,320.35,UPI,First Class,45.26
+ORD-00560,2025-12-25,C0159,Mia Wilson,Corporate,West,California,Office Supplies,Writing,Desk Organizer,28,11,0.1,277.2,126.28,150.92,UPI,Same Day,54.44
+ORD-00561,2024-09-16,C0172,Lucas Patel,Home Office,East,Pennsylvania,Office Supplies,Writing,Pen Pack,12,5,0.0,60.0,18.0,42.0,Credit Card,First Class,70.0
+ORD-00562,2025-05-25,C0046,Isha Khan,Home Office,East,Pennsylvania,Office Supplies,Storage,Storage Box,32,12,0.1,345.6,165.12,180.48,Debit Card,Second Class,52.22
+ORD-00563,2025-06-10,C0179,Noah Patel,Home Office,West,Oregon,Technology,Computers,Laptop,1099,2,0.0,2198.0,1450.68,747.32,Debit Card,Standard Class,34.0
+ORD-00564,2024-01-28,C0154,Mia Johnson,Consumer,East,Massachusetts,Technology,Computers,Laptop,1099,2,0.0,2198.0,1450.68,747.32,Debit Card,Standard Class,34.0
+ORD-00565,2024-05-27,C0030,Sara Wilson,Corporate,East,Pennsylvania,Office Supplies,Paper,Notebook Set,22,8,0.0,176.0,70.4,105.6,Credit Card,Same Day,60.0
+ORD-00566,2025-11-30,C0107,Mia Wilson,Consumer,West,Washington,Furniture,Tables,Study Desk,279,3,0.1,753.3,502.2,251.1,Debit Card,Same Day,33.33
+ORD-00567,2025-01-04,C0164,Isha Brown,Home Office,South,Georgia,Furniture,Chairs,Ergonomic Chair,399,4,0.0,1596.0,1005.48,590.52,Bank Transfer,First Class,37.0
+ORD-00568,2024-06-18,C0176,Ananya Smith,Corporate,South,North Carolina,Technology,Accessories,Laptop Sleeve,35,5,0.15,148.75,66.5,82.25,UPI,First Class,55.29
+ORD-00569,2024-04-20,C0060,Aarav Davis,Corporate,Central,Ohio,Office Supplies,Paper,Copy Paper,15,3,0.05,42.75,15.75,27.0,Debit Card,Standard Class,63.16
+ORD-00570,2024-02-29,C0014,Isha Smith,Consumer,West,Oregon,Office Supplies,Writing,Pen Pack,12,12,0.05,136.8,43.2,93.6,Bank Transfer,Second Class,68.42
+ORD-00571,2025-10-10,C0008,Ananya Miller,Consumer,South,Georgia,Technology,Accessories,Laptop Sleeve,35,1,0.15,29.75,13.3,16.45,Bank Transfer,Second Class,55.29
+ORD-00572,2024-02-16,C0159,Mia Wilson,Corporate,East,New York,Furniture,Chairs,Office Chair,199,5,0.1,895.5,567.15,328.35,UPI,First Class,36.67
+ORD-00573,2025-02-07,C0058,Sara Miller,Consumer,South,North Carolina,Technology,Phones,Smartphone,699,5,0.0,3495.0,1887.3,1607.7,Debit Card,Standard Class,46.0
+ORD-00574,2024-06-29,C0130,Isha Sharma,Corporate,East,Massachusetts,Office Supplies,Writing,Pen Pack,12,9,0.15,91.8,32.4,59.4,Debit Card,Standard Class,64.71
+ORD-00575,2024-04-04,C0026,Kavya Johnson,Corporate,East,New York,Technology,Accessories,Laptop Sleeve,35,1,0.0,35.0,13.3,21.7,Credit Card,Second Class,62.0
+ORD-00576,2024-09-14,C0055,Liam Sharma,Corporate,Central,Texas,Office Supplies,Paper,Notebook Set,22,3,0.0,66.0,26.4,39.6,Credit Card,Standard Class,60.0
+ORD-00577,2025-04-16,C0127,Mia Khan,Corporate,West,Washington,Technology,Computers,Laptop,1099,5,0.2,4396.0,3626.7,769.3,Debit Card,Second Class,17.5
+ORD-00578,2024-06-26,C0060,Aarav Davis,Corporate,Central,Ohio,Furniture,Tables,Study Desk,279,3,0.2,669.6,502.2,167.4,Bank Transfer,First Class,25.0
+ORD-00579,2025-11-28,C0095,Isha Wilson,Corporate,Central,Ohio,Office Supplies,Paper,Notebook Set,22,10,0.1,198.0,88.0,110.0,Debit Card,First Class,55.56
+ORD-00580,2025-12-24,C0135,Aarav Davis,Corporate,West,California,Technology,Computers,Monitor,249,4,0.15,846.6,577.68,268.92,Debit Card,Same Day,31.76
+ORD-00581,2025-01-06,C0115,Aarav Sharma,Consumer,Central,Illinois,Office Supplies,Writing,Pen Pack,12,9,0.0,108.0,32.4,75.6,Credit Card,First Class,70.0
+ORD-00582,2025-07-05,C0043,Sara Miller,Consumer,South,Florida,Office Supplies,Paper,Notebook Set,22,10,0.2,176.0,88.0,88.0,Bank Transfer,Standard Class,50.0
+ORD-00583,2024-10-06,C0174,Kavya Wilson,Corporate,South,Florida,Furniture,Chairs,Ergonomic Chair,399,2,0.15,678.3,502.74,175.56,UPI,Same Day,25.88
+ORD-00584,2024-03-06,C0011,Kavya Sharma,Corporate,South,North Carolina,Technology,Phones,Wireless Headset,129,1,0.05,122.55,63.21,59.34,UPI,Same Day,48.42
+ORD-00585,2024-06-18,C0062,Ananya Garcia,Consumer,East,Massachusetts,Office Supplies,Writing,Pen Pack,12,2,0.0,24.0,7.2,16.8,UPI,Same Day,70.0
+ORD-00586,2025-07-04,C0048,Lucas Patel,Consumer,West,California,Office Supplies,Paper,Copy Paper,15,2,0.15,25.5,10.5,15.0,Bank Transfer,Standard Class,58.82
+ORD-00587,2024-03-08,C0075,Noah Johnson,Corporate,East,New York,Office Supplies,Paper,Copy Paper,15,1,0.1,13.5,5.25,8.25,Debit Card,Second Class,61.11
+ORD-00588,2024-07-19,C0073,Mia Miller,Home Office,West,California,Office Supplies,Storage,Storage Box,32,3,0.1,86.4,41.28,45.12,Bank Transfer,Standard Class,52.22
+ORD-00589,2025-11-28,C0026,Kavya Johnson,Corporate,West,California,Furniture,Tables,Coffee Table,149,1,0.2,119.2,77.48,41.72,Debit Card,First Class,35.0
+ORD-00590,2025-08-31,C0108,Kavya Miller,Corporate,East,Massachusetts,Technology,Accessories,USB-C Hub,59,5,0.2,236.0,132.75,103.25,Bank Transfer,Second Class,43.75
+ORD-00591,2025-02-01,C0021,Noah Brown,Corporate,Central,Ohio,Office Supplies,Storage,Storage Box,32,5,0.0,160.0,68.8,91.2,UPI,Standard Class,57.0
+ORD-00592,2024-01-17,C0088,Noah Miller,Corporate,Central,Illinois,Office Supplies,Paper,Copy Paper,15,12,0.05,171.0,63.0,108.0,Bank Transfer,Same Day,63.16
+ORD-00593,2025-04-28,C0067,Mia Davis,Consumer,South,Florida,Office Supplies,Storage,Storage Box,32,8,0.2,204.8,110.08,94.72,Credit Card,Standard Class,46.25
+ORD-00594,2025-02-24,C0105,Isha Khan,Home Office,South,Georgia,Technology,Computers,Monitor,249,4,0.0,996.0,577.68,418.32,UPI,First Class,42.0
+ORD-00595,2024-11-06,C0020,Aarav Davis,Consumer,South,Georgia,Office Supplies,Writing,Pen Pack,12,7,0.05,79.8,25.2,54.6,UPI,Standard Class,68.42
+ORD-00596,2024-08-05,C0020,Aarav Davis,Consumer,South,North Carolina,Furniture,Chairs,Ergonomic Chair,399,5,0.2,1596.0,1256.85,339.15,Bank Transfer,Standard Class,21.25
+ORD-00597,2025-10-07,C0105,Isha Khan,Home Office,South,Georgia,Technology,Phones,Smartphone,699,1,0.05,664.05,377.46,286.59,Credit Card,Standard Class,43.16
+ORD-00598,2024-07-02,C0106,Sara Smith,Consumer,West,Oregon,Furniture,Tables,Coffee Table,149,2,0.1,268.2,154.96,113.24,Bank Transfer,Second Class,42.22
+ORD-00599,2024-04-11,C0017,Kavya Johnson,Consumer,East,Massachusetts,Office Supplies,Writing,Desk Organizer,28,12,0.0,336.0,137.76,198.24,Bank Transfer,Second Class,59.0
+ORD-00600,2025-11-04,C0079,Noah Sharma,Consumer,West,California,Technology,Phones,Wireless Headset,129,1,0.15,109.65,63.21,46.44,UPI,First Class,42.35
+ORD-00601,2025-05-18,C0175,Noah Garcia,Consumer,Central,Ohio,Technology,Phones,Wireless Headset,129,4,0.2,412.8,252.84,159.96,UPI,First Class,38.75
+ORD-00602,2024-11-24,C0077,Liam Garcia,Corporate,Central,Texas,Technology,Phones,Smartphone,699,4,0.0,2796.0,1509.84,1286.16,Bank Transfer,Standard Class,46.0
+ORD-00603,2024-10-09,C0046,Isha Khan,Home Office,East,New York,Office Supplies,Paper,Notebook Set,22,8,0.15,149.6,70.4,79.2,Debit Card,Second Class,52.94
+ORD-00604,2024-09-20,C0073,Mia Miller,Home Office,East,New York,Office Supplies,Paper,Notebook Set,22,9,0.1,178.2,79.2,99.0,Bank Transfer,Standard Class,55.56
+ORD-00605,2025-03-08,C0156,Ethan Davis,Home Office,West,Washington,Furniture,Tables,Coffee Table,149,5,0.1,670.5,387.4,283.1,Credit Card,Standard Class,42.22
+ORD-00606,2024-12-12,C0178,Isha Khan,Corporate,East,New York,Office Supplies,Paper,Copy Paper,15,5,0.1,67.5,26.25,41.25,Credit Card,Standard Class,61.11
+ORD-00607,2024-02-29,C0088,Noah Miller,Corporate,South,North Carolina,Technology,Accessories,Laptop Sleeve,35,4,0.2,112.0,53.2,58.8,UPI,First Class,52.5
+ORD-00608,2025-11-03,C0055,Liam Sharma,Corporate,West,Oregon,Office Supplies,Writing,Desk Organizer,28,4,0.0,112.0,45.92,66.08,Bank Transfer,Same Day,59.0
+ORD-00609,2024-08-10,C0119,Kavya Khan,Consumer,East,New York,Technology,Computers,Laptop,1099,5,0.0,5495.0,3626.7,1868.3,Credit Card,Standard Class,34.0
+ORD-00610,2025-02-12,C0027,Mia Brown,Home Office,East,Massachusetts,Office Supplies,Storage,Filing Cabinet,189,12,0.15,1927.8,1383.48,544.32,Bank Transfer,Second Class,28.24
+ORD-00611,2024-04-11,C0014,Isha Smith,Consumer,East,Pennsylvania,Furniture,Tables,Coffee Table,149,4,0.2,476.8,309.92,166.88,Credit Card,Standard Class,35.0
+ORD-00612,2025-01-11,C0076,Kavya Brown,Corporate,East,Pennsylvania,Office Supplies,Writing,Desk Organizer,28,3,0.0,84.0,34.44,49.56,Bank Transfer,Same Day,59.0
+ORD-00613,2024-11-08,C0120,Sara Brown,Home Office,Central,Ohio,Furniture,Chairs,Ergonomic Chair,399,5,0.1,1795.5,1256.85,538.65,UPI,Same Day,30.0
+ORD-00614,2024-07-02,C0179,Noah Patel,Home Office,West,California,Technology,Computers,Laptop,1099,5,0.2,4396.0,3626.7,769.3,UPI,Second Class,17.5
+ORD-00615,2025-10-04,C0153,Aarav Miller,Corporate,Central,Ohio,Furniture,Tables,Coffee Table,149,2,0.0,298.0,154.96,143.04,Credit Card,Standard Class,48.0
+ORD-00616,2024-12-24,C0039,Noah Johnson,Corporate,West,Oregon,Furniture,Tables,Study Desk,279,4,0.0,1116.0,669.6,446.4,Credit Card,Second Class,40.0
+ORD-00617,2025-01-08,C0112,Ethan Patel,Corporate,South,Georgia,Technology,Accessories,USB-C Hub,59,1,0.15,50.15,26.55,23.6,UPI,Second Class,47.06
+ORD-00618,2025-01-25,C0171,Lucas Brown,Home Office,South,Florida,Office Supplies,Paper,Notebook Set,22,8,0.2,140.8,70.4,70.4,Bank Transfer,Standard Class,50.0
+ORD-00619,2024-02-21,C0050,Mia Miller,Corporate,West,Oregon,Furniture,Chairs,Ergonomic Chair,399,3,0.0,1197.0,754.11,442.89,UPI,Same Day,37.0
+ORD-00620,2024-05-19,C0092,Ethan Patel,Corporate,Central,Ohio,Office Supplies,Paper,Notebook Set,22,8,0.0,176.0,70.4,105.6,Bank Transfer,First Class,60.0
+ORD-00621,2024-03-15,C0177,Isha Khan,Home Office,South,North Carolina,Office Supplies,Paper,Notebook Set,22,3,0.15,56.1,26.4,29.7,Bank Transfer,First Class,52.94
+ORD-00622,2025-01-12,C0086,Noah Sharma,Home Office,East,Massachusetts,Office Supplies,Storage,Filing Cabinet,189,7,0.05,1256.85,807.03,449.82,Debit Card,Same Day,35.79
+ORD-00623,2025-10-19,C0023,Sara Patel,Home Office,West,Oregon,Office Supplies,Paper,Copy Paper,15,5,0.0,75.0,26.25,48.75,Credit Card,Second Class,65.0
+ORD-00624,2024-06-17,C0103,Lucas Wilson,Consumer,East,New York,Technology,Computers,Monitor,249,3,0.05,709.65,433.26,276.39,Bank Transfer,Standard Class,38.95
+ORD-00625,2025-05-06,C0015,Noah Wilson,Corporate,South,Georgia,Furniture,Chairs,Ergonomic Chair,399,4,0.0,1596.0,1005.48,590.52,UPI,Standard Class,37.0
+ORD-00626,2025-07-09,C0046,Isha Khan,Home Office,East,New York,Technology,Computers,Monitor,249,5,0.0,1245.0,722.1,522.9,UPI,Same Day,42.0
+ORD-00627,2024-09-02,C0096,Noah Khan,Corporate,Central,Illinois,Technology,Phones,Wireless Headset,129,4,0.0,516.0,252.84,263.16,Bank Transfer,First Class,51.0
+ORD-00628,2025-04-23,C0030,Sara Wilson,Corporate,South,Georgia,Technology,Phones,Smartphone,699,4,0.05,2656.2,1509.84,1146.36,Credit Card,Standard Class,43.16
+ORD-00629,2025-02-24,C0154,Mia Johnson,Consumer,West,Oregon,Technology,Computers,Monitor,249,1,0.0,249.0,144.42,104.58,Bank Transfer,Second Class,42.0
+ORD-00630,2025-03-13,C0014,Isha Smith,Consumer,South,Florida,Furniture,Tables,Coffee Table,149,3,0.1,402.3,232.44,169.86,UPI,Standard Class,42.22
+ORD-00631,2025-05-30,C0123,Ananya Patel,Corporate,East,Massachusetts,Technology,Phones,Smartphone,699,3,0.2,1677.6,1132.38,545.22,Debit Card,Same Day,32.5
+ORD-00632,2024-12-14,C0156,Ethan Davis,Home Office,East,Massachusetts,Technology,Computers,Monitor,249,3,0.1,672.3,433.26,239.04,UPI,Standard Class,35.56
+ORD-00633,2024-11-02,C0140,Aarav Sharma,Consumer,West,Oregon,Technology,Computers,Monitor,249,3,0.1,672.3,433.26,239.04,Debit Card,Same Day,35.56
+ORD-00634,2025-12-22,C0174,Kavya Wilson,Corporate,West,Washington,Technology,Accessories,Laptop Sleeve,35,3,0.05,99.75,39.9,59.85,Debit Card,Same Day,60.0
+ORD-00635,2024-12-06,C0088,Noah Miller,Corporate,Central,Texas,Office Supplies,Writing,Pen Pack,12,2,0.0,24.0,7.2,16.8,UPI,Same Day,70.0
+ORD-00636,2024-07-07,C0049,Kavya Davis,Home Office,East,Massachusetts,Office Supplies,Paper,Notebook Set,22,10,0.0,220.0,88.0,132.0,Debit Card,Same Day,60.0
+ORD-00637,2024-12-23,C0013,Noah Miller,Home Office,East,Pennsylvania,Technology,Accessories,USB-C Hub,59,3,0.2,141.6,79.65,61.95,Credit Card,Standard Class,43.75
+ORD-00638,2025-07-02,C0013,Noah Miller,Home Office,East,Pennsylvania,Office Supplies,Storage,Storage Box,32,6,0.15,163.2,82.56,80.64,Debit Card,First Class,49.41
+ORD-00639,2024-11-18,C0151,Isha Patel,Corporate,East,Pennsylvania,Furniture,Chairs,Ergonomic Chair,399,4,0.0,1596.0,1005.48,590.52,Bank Transfer,First Class,37.0
+ORD-00640,2025-06-03,C0154,Mia Johnson,Consumer,South,Florida,Technology,Computers,Monitor,249,5,0.0,1245.0,722.1,522.9,Debit Card,Second Class,42.0
+ORD-00641,2024-03-29,C0084,Noah Sharma,Corporate,West,Washington,Technology,Computers,Laptop,1099,3,0.0,3297.0,2176.02,1120.98,Bank Transfer,Second Class,34.0
+ORD-00642,2024-07-17,C0090,Noah Garcia,Home Office,East,Massachusetts,Furniture,Tables,Coffee Table,149,2,0.0,298.0,154.96,143.04,Debit Card,Second Class,48.0
+ORD-00643,2024-02-06,C0071,Lucas Sharma,Corporate,West,Oregon,Technology,Computers,Monitor,249,5,0.0,1245.0,722.1,522.9,UPI,Standard Class,42.0
+ORD-00644,2025-01-10,C0119,Kavya Khan,Consumer,Central,Illinois,Office Supplies,Writing,Desk Organizer,28,9,0.0,252.0,103.32,148.68,Debit Card,First Class,59.0
+ORD-00645,2024-05-02,C0176,Ananya Smith,Corporate,South,Georgia,Technology,Computers,Monitor,249,4,0.0,996.0,577.68,418.32,Bank Transfer,First Class,42.0
+ORD-00646,2025-12-20,C0013,Noah Miller,Home Office,South,North Carolina,Office Supplies,Writing,Pen Pack,12,6,0.1,64.8,21.6,43.2,UPI,Second Class,66.67
+ORD-00647,2024-07-30,C0002,Lucas Brown,Corporate,East,Pennsylvania,Office Supplies,Paper,Notebook Set,22,8,0.0,176.0,70.4,105.6,Bank Transfer,Same Day,60.0
+ORD-00648,2025-08-03,C0002,Lucas Brown,Corporate,South,North Carolina,Technology,Computers,Monitor,249,4,0.2,796.8,577.68,219.12,UPI,First Class,27.5
+ORD-00649,2025-11-04,C0094,Sara Smith,Corporate,West,Oregon,Technology,Computers,Monitor,249,5,0.05,1182.75,722.1,460.65,UPI,Same Day,38.95
+ORD-00650,2024-06-04,C0115,Aarav Sharma,Consumer,East,Pennsylvania,Office Supplies,Storage,Filing Cabinet,189,10,0.0,1890.0,1152.9,737.1,Bank Transfer,First Class,39.0
+ORD-00651,2024-12-07,C0042,Lucas Wilson,Corporate,East,New York,Office Supplies,Paper,Copy Paper,15,9,0.1,121.5,47.25,74.25,Debit Card,Same Day,61.11
+ORD-00652,2025-12-20,C0176,Ananya Smith,Corporate,West,Washington,Furniture,Tables,Study Desk,279,5,0.05,1325.25,837.0,488.25,Credit Card,Same Day,36.84
+ORD-00653,2024-05-16,C0063,Mia Patel,Consumer,South,Florida,Office Supplies,Paper,Notebook Set,22,10,0.05,209.0,88.0,121.0,Debit Card,Standard Class,57.89
+ORD-00654,2024-06-10,C0096,Noah Khan,Corporate,South,Georgia,Furniture,Tables,Coffee Table,149,5,0.05,707.75,387.4,320.35,Credit Card,Second Class,45.26
+ORD-00655,2025-12-25,C0074,Mia Sharma,Corporate,Central,Illinois,Office Supplies,Paper,Copy Paper,15,4,0.05,57.0,21.0,36.0,Bank Transfer,Standard Class,63.16
+ORD-00656,2024-01-05,C0053,Kavya Sharma,Home Office,Central,Ohio,Technology,Accessories,USB-C Hub,59,4,0.1,212.4,106.2,106.2,Credit Card,Standard Class,50.0
+ORD-00657,2024-08-28,C0102,Lucas Smith,Consumer,East,New York,Technology,Phones,Smartphone,699,5,0.0,3495.0,1887.3,1607.7,UPI,Standard Class,46.0
+ORD-00658,2025-01-12,C0035,Ananya Johnson,Corporate,Central,Ohio,Technology,Computers,Monitor,249,3,0.0,747.0,433.26,313.74,Debit Card,Second Class,42.0
+ORD-00659,2025-05-14,C0083,Ananya Patel,Corporate,South,North Carolina,Furniture,Chairs,Ergonomic Chair,399,2,0.2,638.4,502.74,135.66,Bank Transfer,Same Day,21.25
+ORD-00660,2025-12-14,C0158,Noah Smith,Consumer,Central,Texas,Furniture,Chairs,Office Chair,199,4,0.15,676.6,453.72,222.88,Debit Card,Second Class,32.94
+ORD-00661,2024-12-31,C0052,Mia Sharma,Consumer,Central,Texas,Technology,Computers,Laptop,1099,5,0.0,5495.0,3626.7,1868.3,UPI,Second Class,34.0
+ORD-00662,2025-07-09,C0017,Kavya Johnson,Consumer,East,Pennsylvania,Furniture,Chairs,Ergonomic Chair,399,3,0.1,1077.3,754.11,323.19,UPI,Second Class,30.0
+ORD-00663,2024-11-05,C0050,Mia Miller,Corporate,Central,Illinois,Office Supplies,Paper,Copy Paper,15,10,0.0,150.0,52.5,97.5,Credit Card,Second Class,65.0
+ORD-00664,2025-10-19,C0045,Sara Patel,Home Office,West,Oregon,Office Supplies,Writing,Desk Organizer,28,6,0.0,168.0,68.88,99.12,UPI,First Class,59.0
+ORD-00665,2024-10-05,C0029,Ananya Johnson,Consumer,East,New York,Office Supplies,Writing,Pen Pack,12,5,0.1,54.0,18.0,36.0,Debit Card,First Class,66.67
+ORD-00666,2025-09-17,C0089,Kavya Garcia,Corporate,Central,Texas,Technology,Phones,Smartphone,699,5,0.0,3495.0,1887.3,1607.7,Bank Transfer,Second Class,46.0
+ORD-00667,2024-03-24,C0051,Lucas Johnson,Consumer,East,Pennsylvania,Office Supplies,Writing,Desk Organizer,28,1,0.0,28.0,11.48,16.52,Debit Card,Same Day,59.0
+ORD-00668,2024-02-03,C0087,Sara Miller,Consumer,Central,Texas,Furniture,Chairs,Office Chair,199,5,0.1,895.5,567.15,328.35,UPI,Standard Class,36.67
+ORD-00669,2024-04-01,C0043,Sara Miller,Consumer,West,Oregon,Technology,Accessories,USB-C Hub,59,3,0.0,177.0,79.65,97.35,UPI,Same Day,55.0
+ORD-00670,2024-02-01,C0122,Sara Brown,Home Office,South,Florida,Technology,Computers,Laptop,1099,1,0.1,989.1,725.34,263.76,Bank Transfer,Second Class,26.67
+ORD-00671,2024-06-27,C0127,Mia Khan,Corporate,Central,Illinois,Technology,Accessories,Laptop Sleeve,35,1,0.0,35.0,13.3,21.7,Debit Card,Same Day,62.0
+ORD-00672,2025-12-05,C0073,Mia Miller,Home Office,Central,Texas,Office Supplies,Writing,Pen Pack,12,3,0.0,36.0,10.8,25.2,Credit Card,Same Day,70.0
+ORD-00673,2024-09-18,C0107,Mia Wilson,Consumer,West,Washington,Office Supplies,Writing,Pen Pack,12,5,0.0,60.0,18.0,42.0,Credit Card,First Class,70.0
+ORD-00674,2024-02-15,C0118,Ananya Wilson,Consumer,Central,Ohio,Office Supplies,Paper,Notebook Set,22,9,0.15,168.3,79.2,89.1,Debit Card,Standard Class,52.94
+ORD-00675,2025-02-08,C0089,Kavya Garcia,Corporate,West,Oregon,Technology,Phones,Smartphone,699,5,0.0,3495.0,1887.3,1607.7,UPI,Standard Class,46.0
+ORD-00676,2024-08-29,C0043,Sara Miller,Consumer,South,Georgia,Office Supplies,Writing,Desk Organizer,28,6,0.15,142.8,68.88,73.92,Bank Transfer,First Class,51.76
+ORD-00677,2024-10-17,C0004,Noah Garcia,Home Office,West,Washington,Technology,Computers,Laptop,1099,2,0.05,2088.1,1450.68,637.42,Debit Card,Standard Class,30.53
+ORD-00678,2025-07-03,C0087,Sara Miller,Consumer,Central,Texas,Technology,Phones,Wireless Headset,129,3,0.0,387.0,189.63,197.37,Debit Card,Same Day,51.0
+ORD-00679,2025-03-09,C0002,Lucas Brown,Corporate,Central,Ohio,Technology,Accessories,USB-C Hub,59,4,0.2,188.8,106.2,82.6,Credit Card,Standard Class,43.75
+ORD-00680,2024-03-18,C0175,Noah Garcia,Consumer,West,Oregon,Office Supplies,Paper,Notebook Set,22,4,0.2,70.4,35.2,35.2,Credit Card,First Class,50.0
+ORD-00681,2024-02-23,C0129,Kavya Smith,Home Office,Central,Texas,Office Supplies,Storage,Storage Box,32,3,0.0,96.0,41.28,54.72,Bank Transfer,Standard Class,57.0
+ORD-00682,2025-03-23,C0130,Isha Sharma,Corporate,South,North Carolina,Technology,Accessories,USB-C Hub,59,5,0.0,295.0,132.75,162.25,UPI,Second Class,55.0
+ORD-00683,2024-04-20,C0160,Ethan Garcia,Home Office,Central,Illinois,Technology,Computers,Laptop,1099,3,0.0,3297.0,2176.02,1120.98,UPI,Standard Class,34.0
+ORD-00684,2025-05-07,C0179,Noah Patel,Home Office,East,Pennsylvania,Furniture,Tables,Study Desk,279,1,0.1,251.1,167.4,83.7,Bank Transfer,Same Day,33.33
+ORD-00685,2025-07-28,C0168,Aarav Patel,Consumer,Central,Texas,Furniture,Chairs,Ergonomic Chair,399,2,0.05,758.1,502.74,255.36,Credit Card,Same Day,33.68
+ORD-00686,2024-05-30,C0126,Mia Wilson,Consumer,East,Massachusetts,Technology,Accessories,USB-C Hub,59,1,0.05,56.05,26.55,29.5,Debit Card,First Class,52.63
+ORD-00687,2025-09-22,C0123,Ananya Patel,Corporate,South,Georgia,Furniture,Tables,Study Desk,279,3,0.0,837.0,502.2,334.8,Credit Card,Same Day,40.0
+ORD-00688,2025-11-19,C0160,Ethan Garcia,Home Office,Central,Ohio,Furniture,Tables,Coffee Table,149,1,0.1,134.1,77.48,56.62,UPI,Standard Class,42.22
+ORD-00689,2025-06-05,C0146,Liam Patel,Corporate,Central,Illinois,Technology,Accessories,USB-C Hub,59,3,0.05,168.15,79.65,88.5,Debit Card,First Class,52.63
+ORD-00690,2024-11-15,C0096,Noah Khan,Corporate,East,New York,Office Supplies,Writing,Desk Organizer,28,9,0.0,252.0,103.32,148.68,Bank Transfer,Second Class,59.0
+ORD-00691,2024-12-08,C0043,Sara Miller,Consumer,West,California,Technology,Computers,Monitor,249,2,0.0,498.0,288.84,209.16,Bank Transfer,Standard Class,42.0
+ORD-00692,2025-03-01,C0080,Aarav Wilson,Consumer,Central,Texas,Office Supplies,Paper,Notebook Set,22,12,0.05,250.8,105.6,145.2,UPI,First Class,57.89
+ORD-00693,2024-07-16,C0172,Lucas Patel,Home Office,South,Georgia,Technology,Computers,Monitor,249,4,0.0,996.0,577.68,418.32,UPI,Second Class,42.0
+ORD-00694,2024-02-22,C0020,Aarav Davis,Consumer,East,Massachusetts,Furniture,Tables,Coffee Table,149,5,0.2,596.0,387.4,208.6,UPI,Second Class,35.0
+ORD-00695,2025-01-21,C0158,Noah Smith,Consumer,East,Massachusetts,Office Supplies,Storage,Filing Cabinet,189,9,0.05,1615.95,1037.61,578.34,Credit Card,Second Class,35.79
+ORD-00696,2025-10-16,C0028,Ethan Sharma,Home Office,East,New York,Office Supplies,Storage,Filing Cabinet,189,12,0.0,2268.0,1383.48,884.52,Bank Transfer,Second Class,39.0
+ORD-00697,2024-07-02,C0100,Ethan Sharma,Home Office,East,Massachusetts,Furniture,Chairs,Office Chair,199,2,0.1,358.2,226.86,131.34,Bank Transfer,Standard Class,36.67
+ORD-00698,2024-02-01,C0090,Noah Garcia,Home Office,East,New York,Office Supplies,Storage,Storage Box,32,2,0.0,64.0,27.52,36.48,Bank Transfer,Second Class,57.0
+ORD-00699,2025-03-04,C0149,Ananya Miller,Consumer,South,Florida,Technology,Accessories,Laptop Sleeve,35,3,0.1,94.5,39.9,54.6,UPI,Same Day,57.78
+ORD-00700,2025-12-12,C0160,Ethan Garcia,Home Office,Central,Ohio,Office Supplies,Storage,Filing Cabinet,189,5,0.2,756.0,576.45,179.55,UPI,Second Class,23.75
+ORD-00701,2024-07-19,C0171,Lucas Brown,Home Office,South,North Carolina,Technology,Computers,Laptop,1099,1,0.15,934.15,725.34,208.81,Debit Card,Same Day,22.35
+ORD-00702,2024-10-16,C0084,Noah Sharma,Corporate,Central,Illinois,Technology,Accessories,Laptop Sleeve,35,2,0.0,70.0,26.6,43.4,Credit Card,Standard Class,62.0
+ORD-00703,2024-02-01,C0089,Kavya Garcia,Corporate,East,Pennsylvania,Furniture,Chairs,Office Chair,199,5,0.05,945.25,567.15,378.1,Credit Card,Standard Class,40.0
+ORD-00704,2024-03-31,C0084,Noah Sharma,Corporate,South,Florida,Technology,Phones,Wireless Headset,129,5,0.0,645.0,316.05,328.95,Credit Card,Second Class,51.0
+ORD-00705,2024-10-28,C0009,Isha Johnson,Home Office,Central,Ohio,Technology,Computers,Monitor,249,5,0.05,1182.75,722.1,460.65,Debit Card,Second Class,38.95
+ORD-00706,2025-11-17,C0019,Aarav Patel,Home Office,West,California,Technology,Phones,Smartphone,699,5,0.1,3145.5,1887.3,1258.2,Debit Card,Same Day,40.0
+ORD-00707,2024-07-24,C0096,Noah Khan,Corporate,Central,Texas,Office Supplies,Paper,Notebook Set,22,1,0.0,22.0,8.8,13.2,UPI,Second Class,60.0
+ORD-00708,2025-07-11,C0049,Kavya Davis,Home Office,West,Washington,Technology,Phones,Wireless Headset,129,5,0.1,580.5,316.05,264.45,Credit Card,Standard Class,45.56
+ORD-00709,2024-05-08,C0178,Isha Khan,Corporate,West,Washington,Technology,Phones,Smartphone,699,3,0.1,1887.3,1132.38,754.92,UPI,Second Class,40.0
+ORD-00710,2025-11-12,C0124,Aarav Davis,Home Office,Central,Illinois,Furniture,Chairs,Ergonomic Chair,399,1,0.0,399.0,251.37,147.63,Debit Card,Second Class,37.0
+ORD-00711,2025-07-25,C0141,Lucas Johnson,Consumer,Central,Illinois,Technology,Accessories,USB-C Hub,59,1,0.2,47.2,26.55,20.65,Credit Card,First Class,43.75
+ORD-00712,2024-06-19,C0036,Sara Garcia,Home Office,Central,Texas,Office Supplies,Paper,Notebook Set,22,2,0.0,44.0,17.6,26.4,UPI,First Class,60.0
+ORD-00713,2024-06-03,C0161,Kavya Brown,Home Office,East,Pennsylvania,Office Supplies,Storage,Filing Cabinet,189,10,0.0,1890.0,1152.9,737.1,Debit Card,First Class,39.0
+ORD-00714,2024-10-08,C0053,Kavya Sharma,Home Office,East,Massachusetts,Furniture,Chairs,Ergonomic Chair,399,5,0.0,1995.0,1256.85,738.15,Bank Transfer,First Class,37.0
+ORD-00715,2024-07-07,C0090,Noah Garcia,Home Office,East,Pennsylvania,Furniture,Chairs,Office Chair,199,3,0.0,597.0,340.29,256.71,Credit Card,First Class,43.0
+ORD-00716,2024-06-20,C0099,Noah Patel,Home Office,West,Oregon,Technology,Accessories,Laptop Sleeve,35,2,0.0,70.0,26.6,43.4,Credit Card,Second Class,62.0
+ORD-00717,2024-09-27,C0126,Mia Wilson,Consumer,West,California,Technology,Phones,Smartphone,699,2,0.0,1398.0,754.92,643.08,Credit Card,First Class,46.0
+ORD-00718,2025-08-09,C0155,Mia Smith,Consumer,Central,Ohio,Technology,Phones,Wireless Headset,129,3,0.2,309.6,189.63,119.97,Credit Card,Standard Class,38.75
+ORD-00719,2024-02-23,C0097,Aarav Garcia,Home Office,East,Massachusetts,Office Supplies,Paper,Copy Paper,15,11,0.0,165.0,57.75,107.25,Bank Transfer,Second Class,65.0
+ORD-00720,2025-08-30,C0120,Sara Brown,Home Office,East,Massachusetts,Furniture,Chairs,Office Chair,199,4,0.0,796.0,453.72,342.28,Bank Transfer,First Class,43.0
+ORD-00721,2024-02-01,C0058,Sara Miller,Consumer,East,New York,Technology,Phones,Smartphone,699,3,0.0,2097.0,1132.38,964.62,Credit Card,First Class,46.0
+ORD-00722,2024-11-22,C0110,Mia Wilson,Home Office,East,Massachusetts,Office Supplies,Writing,Desk Organizer,28,10,0.1,252.0,114.8,137.2,Credit Card,Same Day,54.44
+ORD-00723,2024-11-28,C0061,Ethan Brown,Consumer,Central,Texas,Office Supplies,Storage,Filing Cabinet,189,4,0.05,718.2,461.16,257.04,Credit Card,First Class,35.79
+ORD-00724,2024-06-29,C0071,Lucas Sharma,Corporate,South,Georgia,Office Supplies,Storage,Filing Cabinet,189,9,0.1,1530.9,1037.61,493.29,Bank Transfer,First Class,32.22
+ORD-00725,2025-10-11,C0124,Aarav Davis,Home Office,East,Massachusetts,Office Supplies,Paper,Copy Paper,15,6,0.05,85.5,31.5,54.0,UPI,Standard Class,63.16
+ORD-00726,2024-11-26,C0014,Isha Smith,Consumer,West,Oregon,Furniture,Chairs,Office Chair,199,3,0.05,567.15,340.29,226.86,Credit Card,First Class,40.0
+ORD-00727,2024-07-18,C0157,Noah Patel,Consumer,West,Oregon,Furniture,Tables,Study Desk,279,1,0.0,279.0,167.4,111.6,Credit Card,Same Day,40.0
+ORD-00728,2025-10-01,C0130,Isha Sharma,Corporate,West,Washington,Office Supplies,Paper,Notebook Set,22,3,0.0,66.0,26.4,39.6,Credit Card,Standard Class,60.0
+ORD-00729,2024-09-12,C0073,Mia Miller,Home Office,South,Florida,Furniture,Tables,Study Desk,279,4,0.0,1116.0,669.6,446.4,Bank Transfer,Standard Class,40.0
+ORD-00730,2024-09-23,C0033,Liam Patel,Consumer,East,Massachusetts,Technology,Accessories,USB-C Hub,59,2,0.2,94.4,53.1,41.3,Credit Card,Standard Class,43.75
+ORD-00731,2024-10-18,C0171,Lucas Brown,Home Office,South,North Carolina,Technology,Accessories,USB-C Hub,59,5,0.0,295.0,132.75,162.25,Bank Transfer,Same Day,55.0
+ORD-00732,2024-06-25,C0027,Mia Brown,Home Office,West,Washington,Technology,Computers,Monitor,249,3,0.0,747.0,433.26,313.74,Credit Card,First Class,42.0
+ORD-00733,2025-03-14,C0007,Sara Khan,Consumer,Central,Texas,Furniture,Chairs,Ergonomic Chair,399,1,0.0,399.0,251.37,147.63,Debit Card,Second Class,37.0
+ORD-00734,2025-11-12,C0010,Sara Sharma,Corporate,East,Pennsylvania,Technology,Accessories,Laptop Sleeve,35,1,0.15,29.75,13.3,16.45,UPI,Same Day,55.29
+ORD-00735,2025-10-22,C0092,Ethan Patel,Corporate,West,Washington,Technology,Accessories,Laptop Sleeve,35,3,0.1,94.5,39.9,54.6,Bank Transfer,First Class,57.78
+ORD-00736,2025-09-04,C0116,Ananya Garcia,Home Office,Central,Ohio,Office Supplies,Paper,Copy Paper,15,3,0.2,36.0,15.75,20.25,Debit Card,First Class,56.25
+ORD-00737,2025-08-28,C0061,Ethan Brown,Consumer,West,Oregon,Furniture,Chairs,Ergonomic Chair,399,3,0.05,1137.15,754.11,383.04,Credit Card,Standard Class,33.68
+ORD-00738,2024-06-21,C0096,Noah Khan,Corporate,East,New York,Furniture,Tables,Study Desk,279,4,0.0,1116.0,669.6,446.4,Debit Card,First Class,40.0
+ORD-00739,2025-04-04,C0147,Isha Johnson,Home Office,South,Georgia,Technology,Phones,Smartphone,699,3,0.0,2097.0,1132.38,964.62,Credit Card,Standard Class,46.0
+ORD-00740,2024-02-14,C0034,Sara Khan,Home Office,Central,Texas,Technology,Accessories,Laptop Sleeve,35,1,0.05,33.25,13.3,19.95,UPI,Same Day,60.0
+ORD-00741,2025-11-28,C0154,Mia Johnson,Consumer,West,Washington,Office Supplies,Writing,Pen Pack,12,5,0.0,60.0,18.0,42.0,Credit Card,Standard Class,70.0
+ORD-00742,2024-12-16,C0109,Ananya Sharma,Consumer,Central,Ohio,Office Supplies,Writing,Pen Pack,12,6,0.0,72.0,21.6,50.4,Bank Transfer,Second Class,70.0
+ORD-00743,2025-09-24,C0119,Kavya Khan,Consumer,West,California,Office Supplies,Storage,Filing Cabinet,189,10,0.15,1606.5,1152.9,453.6,Credit Card,First Class,28.24
+ORD-00744,2025-05-16,C0067,Mia Davis,Consumer,South,North Carolina,Technology,Computers,Monitor,249,4,0.1,896.4,577.68,318.72,Debit Card,Second Class,35.56
+ORD-00745,2024-06-14,C0136,Ethan Miller,Consumer,Central,Illinois,Technology,Phones,Wireless Headset,129,2,0.0,258.0,126.42,131.58,Bank Transfer,Second Class,51.0
+ORD-00746,2024-01-08,C0029,Ananya Johnson,Consumer,West,Washington,Office Supplies,Writing,Desk Organizer,28,4,0.05,106.4,45.92,60.48,UPI,Same Day,56.84
+ORD-00747,2024-05-19,C0173,Liam Khan,Corporate,West,Washington,Furniture,Chairs,Office Chair,199,3,0.0,597.0,340.29,256.71,UPI,Standard Class,43.0
+ORD-00748,2025-03-07,C0088,Noah Miller,Corporate,West,Washington,Technology,Phones,Wireless Headset,129,5,0.0,645.0,316.05,328.95,UPI,Same Day,51.0
+ORD-00749,2024-08-05,C0155,Mia Smith,Consumer,South,North Carolina,Office Supplies,Storage,Filing Cabinet,189,5,0.1,850.5,576.45,274.05,Bank Transfer,Standard Class,32.22
+ORD-00750,2024-11-04,C0155,Mia Smith,Consumer,Central,Texas,Office Supplies,Paper,Notebook Set,22,3,0.0,66.0,26.4,39.6,Bank Transfer,Second Class,60.0

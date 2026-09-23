@@ -1,0 +1,21 @@
+CREATE TABLE retail_orders (
+    OrderID TEXT PRIMARY KEY,
+    OrderDate DATE,
+    CustomerID TEXT,
+    CustomerName TEXT,
+    Segment TEXT,
+    Region TEXT,
+    State TEXT,
+    Category TEXT,
+    SubCategory TEXT,
+    Product TEXT,
+    UnitPrice REAL,
+    Quantity INTEGER,
+    Discount REAL,
+    Sales REAL,
+    Cost REAL,
+    Profit REAL,
+    PaymentMethod TEXT,
+    ShipMode TEXT,
+    ProfitMargin REAL
+);
